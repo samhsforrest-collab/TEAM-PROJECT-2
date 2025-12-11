@@ -1,0 +1,1208 @@
+Charging Station ID,station_id,Charging Station Location,Charger Type,State,lat,lon
+Station_391,Houston_391,Houston,DC Fast Charger,TX,29.88365608,-95.7799914
+Station_428,San Francisco_428,San Francisco,Level 1,CA,37.73300352,-122.4842863
+Station_181,San Francisco_181,San Francisco,Level 2,CA,37.78837655,-122.4117281
+Station_327,Houston_327,Houston,Level 1,TX,30.03530774,-95.73044893
+Station_108,Los Angeles_108,Los Angeles,Level 1,CA,34.12242488,-118.3920798
+Station_335,San Francisco_335,San Francisco,DC Fast Charger,CA,37.72645287,-122.4257175
+Station_162,Houston_162,Houston,Level 2,TX,29.98565827,-95.79480099
+Station_302,Los Angeles_302,Los Angeles,Level 2,CA,34.22378251,-118.3139489
+Station_493,Los Angeles_493,Los Angeles,Level 1,CA,34.3221885,-118.4983368
+Station_452,Chicago_452,Chicago,DC Fast Charger,NY,41.6780258,-87.89937912
+Station_206,Los Angeles_206,Los Angeles,DC Fast Charger,CA,34.25087134,-118.3620997
+Station_78,San Francisco_78,San Francisco,DC Fast Charger,CA,37.79685539,-122.4032429
+Station_16,San Francisco_16,San Francisco,Level 2,CA,37.74542413,-122.4316735
+Station_327,Houston_327,Houston,Level 2,TX,30.03530774,-95.73044893
+Station_96,Houston_96,Houston,Level 1,TX,29.9976428,-95.3051842
+Station_147,Los Angeles_147,Los Angeles,DC Fast Charger,CA,34.26010949,-118.3755504
+Station_2,New York_2,New York,DC Fast Charger,NY,40.79296589,-74.24296361
+Station_10,Chicago_10,Chicago,Level 2,NY,41.73343829,-87.81845706
+Station_434,New York_434,New York,Level 1,NY,40.76334431,-74.05474901
+Station_125,Los Angeles_125,Los Angeles,Level 2,CA,33.87353558,-118.1923062
+Station_81,Los Angeles_81,Los Angeles,Level 2,CA,34.121223,-118.3593432
+Station_485,New York_485,New York,Level 1,NY,40.91549504,-73.89240014
+Station_140,Chicago_140,Chicago,DC Fast Charger,NY,41.86834939,-87.65246201
+Station_326,New York_326,New York,DC Fast Charger,NY,40.85242633,-73.81216005
+Station_150,Houston_150,Houston,Level 1,TX,29.63742884,-95.7743198
+Station_288,San Francisco_288,San Francisco,DC Fast Charger,CA,37.73785437,-122.4771615
+Station_361,Houston_361,Houston,Level 1,TX,29.62658971,-95.04567223
+Station_340,San Francisco_340,San Francisco,Level 1,CA,37.80516412,-122.4696515
+Station_129,Los Angeles_129,Los Angeles,Level 2,CA,34.12603513,-118.4682277
+Station_438,Chicago_438,Chicago,DC Fast Charger,NY,42.01496451,-87.74728222
+Station_239,New York_239,New York,DC Fast Charger,NY,40.60389847,-74.12448977
+Station_58,Chicago_58,Chicago,Level 1,NY,41.87016094,-87.82964852
+Station_198,New York_198,New York,Level 2,NY,40.74137198,-73.7402845
+Station_211,Houston_211,Houston,Level 2,TX,29.7396403,-95.62454339
+Station_402,Houston_402,Houston,DC Fast Charger,TX,30.09852256,-95.39237897
+Station_390,New York_390,New York,Level 1,NY,40.52909105,-74.24220134
+Station_45,Chicago_45,Chicago,DC Fast Charger,NY,41.68495614,-87.67647266
+Station_97,New York_97,New York,DC Fast Charger,NY,40.83059413,-74.02092562
+Station_279,Los Angeles_279,Los Angeles,Level 2,CA,34.3474789,-118.4001517
+Station_23,Houston_23,Houston,Level 2,TX,30.08264703,-95.11137624
+Station_410,Los Angeles_410,Los Angeles,Level 2,CA,34.14311174,-118.3961451
+Station_461,Houston_461,Houston,Level 2,TX,29.66009511,-95.28723056
+Station_391,Houston_391,Houston,Level 1,TX,29.88365608,-95.7799914
+Station_44,Los Angeles_44,Los Angeles,Level 2,CA,33.99492041,-118.1835539
+Station_27,Los Angeles_27,Los Angeles,DC Fast Charger,CA,34.26930441,-118.5356716
+Station_282,San Francisco_282,San Francisco,Level 1,CA,37.76007033,-122.4914157
+Station_97,Chicago_97,Chicago,Level 2,NY,42.01417741,-87.5743822
+Station_463,Los Angeles_463,Los Angeles,Level 1,CA,33.89398911,-118.3441358
+Station_36,New York_36,New York,Level 2,NY,40.75185719,-74.17982483
+Station_109,San Francisco_109,San Francisco,DC Fast Charger,CA,37.7915013,-122.4336994
+Station_55,Los Angeles_55,Los Angeles,Level 1,CA,34.20610721,-118.3995196
+Station_192,Chicago_192,Chicago,Level 2,NY,41.64023448,-87.80385446
+Station_219,Los Angeles_219,Los Angeles,DC Fast Charger,CA,34.27116922,-118.2458506
+Station_185,Houston_185,Houston,DC Fast Charger,TX,29.68450848,-95.75365987
+Station_69,New York_69,New York,DC Fast Charger,NY,40.86754413,-73.71129983
+Station_317,San Francisco_317,San Francisco,Level 2,CA,37.71027841,-122.4422415
+Station_130,Houston_130,Houston,DC Fast Charger,TX,29.54152751,-95.19151827
+Station_55,Chicago_55,Chicago,DC Fast Charger,NY,41.95399212,-87.88607558
+Station_378,Houston_378,Houston,Level 2,TX,29.78516943,-95.36015713
+Station_97,Houston_97,Houston,Level 1,TX,29.65903398,-95.10205357
+Station_336,Chicago_336,Chicago,DC Fast Charger,NY,41.81348656,-87.85104475
+Station_87,Houston_87,Houston,Level 2,TX,29.82357765,-95.21605514
+Station_294,San Francisco_294,San Francisco,Level 1,CA,37.72413813,-122.4701254
+Station_119,Los Angeles_119,Los Angeles,DC Fast Charger,CA,34.34684708,-118.3385622
+Station_208,Houston_208,Houston,Level 2,TX,29.76286005,-95.38593933
+Station_334,San Francisco_334,San Francisco,Level 2,CA,37.7145205,-122.4840484
+Station_413,Los Angeles_413,Los Angeles,DC Fast Charger,CA,33.91975562,-118.3699626
+Station_154,Los Angeles_154,Los Angeles,Level 1,CA,33.74614551,-118.3481375
+Station_35,Houston_35,Houston,Level 1,TX,29.63736507,-95.07566399
+Station_79,San Francisco_79,San Francisco,Level 1,CA,37.72856056,-122.4129636
+Station_67,Houston_67,Houston,DC Fast Charger,TX,29.62854208,-95.69415052
+Station_343,Chicago_343,Chicago,DC Fast Charger,NY,42.02356084,-87.7001619
+Station_413,Los Angeles_413,Los Angeles,Level 1,CA,33.91975562,-118.3699626
+Station_34,Houston_34,Houston,Level 1,TX,29.78360262,-95.17230446
+Station_97,Los Angeles_97,Los Angeles,Level 1,CA,34.22487305,-118.5728909
+Station_169,San Francisco_169,San Francisco,Level 1,CA,37.7116317,-122.4510318
+Station_169,New York_169,New York,Level 2,NY,40.67213881,-73.99445545
+Station_151,Houston_151,Houston,DC Fast Charger,TX,29.93744551,-95.26130836
+Station_71,Houston_71,Houston,Level 1,TX,30.09049913,-95.7212657
+Station_3,Los Angeles_3,Los Angeles,Level 2,CA,34.26008715,-118.5431853
+Station_314,San Francisco_314,San Francisco,Level 1,CA,37.72282507,-122.4482218
+Station_32,Chicago_32,Chicago,Level 1,NY,41.81297147,-87.82301104
+Station_287,San Francisco_287,San Francisco,Level 2,CA,37.72997677,-122.3722775
+Station_82,Houston_82,Houston,Level 1,TX,29.76587845,-95.11092072
+Station_43,Chicago_43,Chicago,Level 1,NY,41.86563338,-87.9187529
+Station_391,San Francisco_391,San Francisco,Level 2,CA,37.75827694,-122.4858004
+Station_105,New York_105,New York,Level 2,NY,40.66244733,-74.23540511
+Station_1,Los Angeles_1,Los Angeles,Level 2,CA,33.94633253,-118.1674925
+Station_61,San Francisco_61,San Francisco,Level 2,CA,37.73182437,-122.3945487
+Station_270,San Francisco_270,San Francisco,Level 2,CA,37.754601,-122.4523188
+Station_180,New York_180,New York,Level 1,NY,40.72898038,-73.84613912
+Station_224,Houston_224,Houston,DC Fast Charger,TX,29.5928781,-95.56263374
+Station_6,Los Angeles_6,Los Angeles,Level 2,CA,34.32966109,-118.3746181
+Station_103,San Francisco_103,San Francisco,DC Fast Charger,CA,37.76506342,-122.4003239
+Station_10,Chicago_10,Chicago,Level 1,NY,41.73343829,-87.81845706
+Station_71,San Francisco_71,San Francisco,Level 2,CA,37.70685983,-122.4265316
+Station_90,Los Angeles_90,Los Angeles,DC Fast Charger,CA,34.02685275,-118.2351129
+Station_226,San Francisco_226,San Francisco,DC Fast Charger,CA,37.71889193,-122.3662754
+Station_158,New York_158,New York,DC Fast Charger,NY,40.52444793,-74.16036327
+Station_228,San Francisco_228,San Francisco,DC Fast Charger,CA,37.77140421,-122.411966
+Station_405,San Francisco_405,San Francisco,DC Fast Charger,CA,37.72822447,-122.5008181
+Station_126,Chicago_126,Chicago,Level 2,NY,42.0050178,-87.83658955
+Station_444,New York_444,New York,Level 2,NY,40.74564324,-73.90456491
+Station_209,New York_209,New York,Level 2,NY,40.67026671,-73.92563335
+Station_97,San Francisco_97,San Francisco,DC Fast Charger,CA,37.7245111,-122.4054093
+Station_74,Chicago_74,Chicago,DC Fast Charger,NY,41.73786124,-87.77376994
+Station_115,San Francisco_115,San Francisco,Level 1,CA,37.78060283,-122.4720005
+Station_191,San Francisco_191,San Francisco,DC Fast Charger,CA,37.73794126,-122.3997017
+Station_495,Los Angeles_495,Los Angeles,Level 1,CA,34.34899539,-118.1619908
+Station_170,Los Angeles_170,Los Angeles,Level 1,CA,33.87238027,-118.1940377
+Station_307,Chicago_307,Chicago,Level 2,NY,42.00115431,-87.5707065
+Station_448,Houston_448,Houston,DC Fast Charger,TX,29.72171625,-95.67380253
+Station_204,Los Angeles_204,Los Angeles,DC Fast Charger,CA,34.24193422,-118.3111946
+Station_56,Houston_56,Houston,Level 1,TX,29.86700666,-95.01021355
+Station_208,New York_208,New York,Level 1,NY,40.77120982,-74.26538437
+Station_41,Los Angeles_41,Los Angeles,DC Fast Charger,CA,34.23111769,-118.5173168
+Station_32,Los Angeles_32,Los Angeles,Level 1,CA,34.13120266,-118.1911457
+Station_15,Chicago_15,Chicago,DC Fast Charger,NY,41.69505936,-87.89151996
+Station_62,Houston_62,Houston,DC Fast Charger,TX,29.56422159,-95.35742109
+Station_155,Los Angeles_155,Los Angeles,Level 1,CA,33.87702634,-118.3615368
+Station_284,Los Angeles_284,Los Angeles,Level 2,CA,34.16644792,-118.5661654
+Station_209,Chicago_209,Chicago,DC Fast Charger,NY,41.90003756,-87.82912676
+Station_320,Chicago_320,Chicago,Level 1,NY,41.84029806,-87.55975867
+Station_494,Houston_494,Houston,Level 1,TX,30.00766223,-95.72616123
+Station_187,New York_187,New York,Level 1,NY,40.67213758,-74.10675867
+Station_498,New York_498,New York,DC Fast Charger,NY,40.76395875,-74.1154464
+Station_442,San Francisco_442,San Francisco,DC Fast Charger,CA,37.78894771,-122.4317311
+Station_130,Los Angeles_130,Los Angeles,DC Fast Charger,CA,34.28755357,-118.391749
+Station_127,Houston_127,Houston,Level 1,TX,30.00075701,-95.33399235
+Station_292,Los Angeles_292,Los Angeles,Level 2,CA,33.90036793,-118.2115194
+Station_114,Houston_114,Houston,Level 2,TX,29.97767338,-95.11143793
+Station_199,Houston_199,Houston,DC Fast Charger,TX,30.03935478,-95.63193877
+Station_13,Houston_13,Houston,DC Fast Charger,TX,29.64971784,-95.7177651
+Station_271,Los Angeles_271,Los Angeles,DC Fast Charger,CA,34.20707556,-118.2190913
+Station_89,Chicago_89,Chicago,Level 2,NY,41.80661473,-87.67932217
+Station_215,Los Angeles_215,Los Angeles,Level 2,CA,33.80045967,-118.1957607
+Station_444,Houston_444,Houston,DC Fast Charger,TX,30.01876342,-95.01903517
+Station_278,San Francisco_278,San Francisco,Level 1,CA,37.70297436,-122.4021497
+Station_447,New York_447,New York,Level 2,NY,40.63283975,-73.72081863
+Station_474,Houston_474,Houston,DC Fast Charger,TX,29.98134108,-95.10874878
+Station_481,San Francisco_481,San Francisco,Level 2,CA,37.79728992,-122.4773111
+Station_203,Chicago_203,Chicago,Level 1,NY,41.96282355,-87.89459984
+Station_74,Houston_74,Houston,Level 1,TX,30.02330007,-95.1131254
+Station_25,San Francisco_25,San Francisco,Level 2,CA,37.72669205,-122.3893461
+Station_101,Houston_101,Houston,DC Fast Charger,TX,29.77618194,-95.55584731
+Station_176,Los Angeles_176,Los Angeles,Level 2,CA,34.21697457,-118.5539263
+Station_427,San Francisco_427,San Francisco,DC Fast Charger,CA,37.70283973,-122.4890992
+Station_117,Los Angeles_117,Los Angeles,Level 2,CA,33.91337027,-118.22918
+Station_166,Los Angeles_166,Los Angeles,Level 1,CA,34.32847792,-118.5276463
+Station_41,San Francisco_41,San Francisco,Level 2,CA,37.77697781,-122.4560515
+Station_429,New York_429,New York,DC Fast Charger,NY,40.91189437,-73.95363272
+Station_344,San Francisco_344,San Francisco,DC Fast Charger,CA,37.81550412,-122.4775254
+Station_424,New York_424,New York,Level 1,NY,40.80327438,-74.08493038
+Station_366,Houston_366,Houston,DC Fast Charger,TX,29.86372531,-95.39086155
+Station_120,Houston_120,Houston,DC Fast Charger,TX,29.73111726,-95.33872957
+Station_97,San Francisco_97,San Francisco,Level 1,CA,37.7245111,-122.4054093
+Station_145,Houston_145,Houston,DC Fast Charger,TX,29.6528335,-95.23297177
+Station_216,Chicago_216,Chicago,DC Fast Charger,NY,41.64069342,-87.55125843
+Station_229,Los Angeles_229,Los Angeles,Level 2,CA,34.0499938,-118.3030907
+Station_313,Los Angeles_313,Los Angeles,Level 2,CA,34.18226755,-118.3279795
+Station_130,New York_130,New York,Level 2,NY,40.64661523,-74.22871545
+Station_352,Houston_352,Houston,Level 2,TX,29.89854261,-95.53583997
+Station_377,New York_377,New York,Level 2,NY,40.79949433,-74.09280986
+Station_318,Los Angeles_318,Los Angeles,Level 2,CA,34.31123639,-118.3245678
+Station_472,Los Angeles_472,Los Angeles,Level 2,CA,34.2868236,-118.3560874
+Station_137,Houston_137,Houston,Level 1,TX,29.68056992,-95.36165023
+Station_324,Chicago_324,Chicago,Level 2,NY,41.64016644,-87.81949624
+Station_337,Chicago_337,Chicago,DC Fast Charger,NY,41.81625414,-87.69640639
+Station_273,Houston_273,Houston,Level 1,TX,29.89282337,-95.42800945
+Station_117,Houston_117,Houston,Level 2,TX,29.76529588,-95.62903888
+Station_306,New York_306,New York,Level 2,NY,40.69347006,-73.73830331
+Station_368,Houston_368,Houston,DC Fast Charger,TX,29.97761486,-95.66424688
+Station_94,Chicago_94,Chicago,Level 1,NY,41.67476617,-87.72351016
+Station_168,Houston_168,Houston,DC Fast Charger,TX,29.87976451,-95.5318494
+Station_442,New York_442,New York,DC Fast Charger,NY,40.84192209,-73.8268285
+Station_203,New York_203,New York,Level 1,NY,40.77930214,-74.13746201
+Station_341,New York_341,New York,DC Fast Charger,NY,40.57562587,-74.25558902
+Station_149,New York_149,New York,Level 1,NY,40.59528229,-73.98966956
+Station_402,San Francisco_402,San Francisco,DC Fast Charger,CA,37.74973292,-122.4192375
+Station_183,Houston_183,Houston,Level 1,TX,29.61666114,-95.2429166
+Station_413,Los Angeles_413,Los Angeles,Level 2,CA,33.91975562,-118.3699626
+Station_152,Houston_152,Houston,Level 1,TX,29.7966263,-95.60481245
+Station_74,San Francisco_74,San Francisco,DC Fast Charger,CA,37.79011574,-122.3967926
+Station_365,New York_365,New York,DC Fast Charger,NY,40.71272183,-74.24037115
+Station_401,San Francisco_401,San Francisco,Level 2,CA,37.72990379,-122.3842662
+Station_274,Chicago_274,Chicago,Level 2,NY,41.82714935,-87.60340503
+Station_42,Chicago_42,Chicago,Level 2,NY,41.91370687,-87.52508517
+Station_496,Houston_496,Houston,Level 1,TX,29.85727139,-95.03996831
+Station_212,Houston_212,Houston,Level 1,TX,30.03485556,-95.30987814
+Station_101,Los Angeles_101,Los Angeles,Level 1,CA,34.16752807,-118.4125631
+Station_45,Los Angeles_45,Los Angeles,Level 1,CA,34.23986996,-118.3905853
+Station_82,Chicago_82,Chicago,Level 1,NY,42.00785532,-87.62766471
+Station_17,New York_17,New York,DC Fast Charger,NY,40.69411001,-74.11707699
+Station_73,San Francisco_73,San Francisco,DC Fast Charger,CA,37.72966877,-122.4179742
+Station_14,Los Angeles_14,Los Angeles,DC Fast Charger,CA,34.19777889,-118.4041371
+Station_433,Los Angeles_433,Los Angeles,Level 1,CA,34.10738648,-118.5299553
+Station_157,New York_157,New York,Level 2,NY,40.6068375,-74.08137135
+Station_223,New York_223,New York,DC Fast Charger,NY,40.72226546,-74.1883593
+Station_132,Houston_132,Houston,DC Fast Charger,TX,29.63875689,-95.24484015
+Station_338,San Francisco_338,San Francisco,Level 1,CA,37.7847703,-122.5097234
+Station_404,New York_404,New York,Level 1,NY,40.66526773,-73.94985943
+Station_376,Los Angeles_376,Los Angeles,Level 1,CA,33.97309329,-118.2085324
+Station_376,Los Angeles_376,Los Angeles,DC Fast Charger,CA,33.97309329,-118.2085324
+Station_47,Chicago_47,Chicago,Level 2,NY,41.87947256,-87.64788035
+Station_107,New York_107,New York,Level 1,NY,40.85839477,-73.8182992
+Station_108,Houston_108,Houston,Level 1,TX,29.72822862,-95.79528313
+Station_265,San Francisco_265,San Francisco,Level 2,CA,37.74221106,-122.399444
+Station_205,Houston_205,Houston,Level 2,TX,30.01206877,-95.03725573
+Station_79,Los Angeles_79,Los Angeles,Level 2,CA,33.97236383,-118.288767
+Station_155,Houston_155,Houston,Level 1,TX,29.82767939,-95.31739793
+Station_271,Los Angeles_271,Los Angeles,Level 1,CA,34.20707556,-118.2190913
+Station_476,Los Angeles_476,Los Angeles,DC Fast Charger,CA,33.9184842,-118.3236376
+Station_485,Los Angeles_485,Los Angeles,DC Fast Charger,CA,34.10446702,-118.6562471
+Station_247,Los Angeles_247,Los Angeles,DC Fast Charger,CA,33.95611317,-118.3821601
+Station_19,Los Angeles_19,Los Angeles,DC Fast Charger,CA,33.71761633,-118.3421977
+Station_346,Chicago_346,Chicago,DC Fast Charger,NY,41.69563679,-87.74608665
+Station_436,Houston_436,Houston,DC Fast Charger,TX,29.53017078,-95.49671691
+Station_26,Chicago_26,Chicago,Level 1,NY,41.72678072,-87.80272476
+Station_217,Chicago_217,Chicago,DC Fast Charger,NY,41.95210418,-87.78076699
+Station_154,New York_154,New York,Level 1,NY,40.59847676,-74.22167532
+Station_174,New York_174,New York,Level 2,NY,40.91996037,-74.0635234
+Station_92,San Francisco_92,San Francisco,Level 1,CA,37.77801729,-122.3950027
+Station_433,New York_433,New York,Level 1,NY,40.7702545,-73.82500241
+Station_338,Houston_338,Houston,Level 1,TX,30.06976704,-95.64051145
+Station_480,Chicago_480,Chicago,Level 2,NY,41.64835581,-87.87599941
+Station_181,Houston_181,Houston,Level 1,TX,29.57573258,-95.26443292
+Station_131,New York_131,New York,Level 2,NY,40.73250692,-74.14140092
+Station_450,San Francisco_450,San Francisco,DC Fast Charger,CA,37.7839358,-122.3972963
+Station_481,San Francisco_481,San Francisco,Level 1,CA,37.79728992,-122.4773111
+Station_298,Chicago_298,Chicago,DC Fast Charger,NY,41.70879355,-87.68495605
+Station_275,Houston_275,Houston,Level 1,TX,29.94875539,-95.7083737
+Station_273,Los Angeles_273,Los Angeles,Level 2,CA,34.23254576,-118.1779924
+Station_492,Houston_492,Houston,DC Fast Charger,TX,29.56485925,-95.77945726
+Station_417,New York_417,New York,Level 1,NY,40.62414162,-73.8703651
+Station_76,Los Angeles_76,Los Angeles,Level 1,CA,34.32281234,-118.4677062
+Station_177,San Francisco_177,San Francisco,Level 2,CA,37.78580176,-122.5078406
+Station_184,Chicago_184,Chicago,Level 1,NY,41.92315191,-87.67655819
+Station_319,Chicago_319,Chicago,DC Fast Charger,NY,41.68177954,-87.61555803
+Station_131,San Francisco_131,San Francisco,Level 2,CA,37.80203519,-122.4239341
+Station_363,New York_363,New York,DC Fast Charger,NY,40.8265332,-74.06514978
+Station_49,San Francisco_49,San Francisco,DC Fast Charger,CA,37.75140536,-122.4607087
+Station_55,New York_55,New York,Level 1,NY,40.70756314,-74.06867361
+Station_355,San Francisco_355,San Francisco,Level 2,CA,37.71266466,-122.366274
+Station_200,New York_200,New York,Level 2,NY,40.7633016,-73.78106269
+Station_308,Los Angeles_308,Los Angeles,Level 2,CA,34.15975062,-118.4479016
+Station_356,San Francisco_356,San Francisco,DC Fast Charger,CA,37.73240989,-122.3906881
+Station_373,Chicago_373,Chicago,DC Fast Charger,NY,41.86065089,-87.73693105
+Station_118,San Francisco_118,San Francisco,DC Fast Charger,CA,37.75226894,-122.4030358
+Station_263,Houston_263,Houston,DC Fast Charger,TX,29.66103732,-95.11862947
+Station_46,San Francisco_46,San Francisco,Level 1,CA,37.80579574,-122.4809818
+Station_302,Houston_302,Houston,Level 2,TX,29.77882508,-95.31173464
+Station_356,Los Angeles_356,Los Angeles,Level 1,CA,34.25311934,-118.5772617
+Station_400,San Francisco_400,San Francisco,Level 1,CA,37.72545438,-122.3923468
+Station_408,Los Angeles_408,Los Angeles,DC Fast Charger,CA,33.92122025,-118.2210368
+Station_189,Los Angeles_189,Los Angeles,Level 2,CA,34.15576944,-118.529103
+Station_310,New York_310,New York,DC Fast Charger,NY,40.70008847,-73.82268285
+Station_318,Los Angeles_318,Los Angeles,DC Fast Charger,CA,34.31123639,-118.3245678
+Station_49,San Francisco_49,San Francisco,Level 2,CA,37.75140536,-122.4607087
+Station_25,San Francisco_25,San Francisco,Level 1,CA,37.72669205,-122.3893461
+Station_266,Chicago_266,Chicago,DC Fast Charger,NY,41.92314983,-87.66872078
+Station_118,New York_118,New York,DC Fast Charger,NY,40.70105317,-73.80216961
+Station_464,Los Angeles_464,Los Angeles,DC Fast Charger,CA,34.14966165,-118.5138349
+Station_144,New York_144,New York,Level 2,NY,40.7400689,-73.99077631
+Station_442,Houston_442,Houston,DC Fast Charger,TX,29.81855316,-95.45959695
+Station_200,Los Angeles_200,Los Angeles,DC Fast Charger,CA,34.18485803,-118.5012964
+Station_157,New York_157,New York,DC Fast Charger,NY,40.6068375,-74.08137135
+Station_487,Chicago_487,Chicago,DC Fast Charger,NY,41.92817053,-87.8262151
+Station_348,Chicago_348,Chicago,Level 1,NY,41.74307551,-87.88932453
+Station_134,Los Angeles_134,Los Angeles,Level 2,CA,34.04831158,-118.2812833
+Station_400,Houston_400,Houston,Level 1,TX,29.61108991,-95.62689229
+Station_148,Chicago_148,Chicago,Level 2,NY,41.83852142,-87.6356743
+Station_71,Houston_71,Houston,Level 2,TX,30.09049913,-95.7212657
+Station_233,New York_233,New York,Level 1,NY,40.90994102,-73.96046425
+Station_334,Chicago_334,Chicago,DC Fast Charger,NY,41.75602947,-87.89777903
+Station_299,San Francisco_299,San Francisco,Level 1,CA,37.72329411,-122.4836027
+Station_154,Chicago_154,Chicago,Level 1,NY,41.71357103,-87.93405769
+Station_90,New York_90,New York,Level 1,NY,40.71967809,-74.10815632
+Station_334,New York_334,New York,Level 2,NY,40.90894682,-73.94351821
+Station_199,Los Angeles_199,Los Angeles,Level 1,CA,34.15332131,-118.6055975
+Station_161,San Francisco_161,San Francisco,Level 2,CA,37.80421534,-122.4414594
+Station_26,New York_26,New York,Level 1,NY,40.86526949,-73.93130211
+Station_121,Houston_121,Houston,Level 1,TX,29.78163817,-95.44762496
+Station_301,San Francisco_301,San Francisco,Level 2,CA,37.79865388,-122.4558868
+Station_212,San Francisco_212,San Francisco,Level 2,CA,37.70888986,-122.4192887
+Station_63,Houston_63,Houston,Level 1,TX,29.53216544,-95.68064193
+Station_451,Chicago_451,Chicago,Level 1,NY,41.87076423,-87.81238909
+Station_68,Houston_68,Houston,Level 1,TX,30.09635087,-95.70523875
+Station_253,Chicago_253,Chicago,Level 1,NY,41.95342181,-87.68534659
+Station_410,Chicago_410,Chicago,DC Fast Charger,NY,41.96420374,-87.8452114
+Station_459,Chicago_459,Chicago,Level 1,NY,41.85425474,-87.75078392
+Station_2,Chicago_2,Chicago,Level 1,NY,41.82151561,-87.57873
+Station_398,Chicago_398,Chicago,Level 2,NY,42.04591282,-87.8117403
+Station_108,Houston_108,Houston,Level 2,TX,29.72822862,-95.79528313
+Station_286,Los Angeles_286,Los Angeles,Level 2,CA,34.10366776,-118.3590882
+Station_49,Los Angeles_49,Los Angeles,Level 1,CA,34.18105805,-118.186729
+Station_140,New York_140,New York,Level 2,NY,40.5793488,-74.14549513
+Station_218,Los Angeles_218,Los Angeles,Level 1,CA,34.12927829,-118.5899009
+Station_44,Los Angeles_44,Los Angeles,DC Fast Charger,CA,33.99492041,-118.1835539
+Station_417,Houston_417,Houston,Level 2,TX,29.60428813,-95.7399481
+Station_269,Chicago_269,Chicago,DC Fast Charger,NY,41.64109705,-87.75078844
+Station_78,Chicago_78,Chicago,Level 1,NY,41.88346259,-87.8176711
+Station_216,Houston_216,Houston,Level 1,TX,29.63888574,-95.23443534
+Station_382,Los Angeles_382,Los Angeles,DC Fast Charger,CA,34.15694191,-118.438444
+Station_98,Houston_98,Houston,DC Fast Charger,TX,29.91243095,-95.06087116
+Station_236,New York_236,New York,DC Fast Charger,NY,40.82876605,-73.90121578
+Station_282,Chicago_282,Chicago,DC Fast Charger,NY,41.91108505,-87.54785925
+Station_149,San Francisco_149,San Francisco,Level 2,CA,37.75101668,-122.43287
+Station_412,New York_412,New York,DC Fast Charger,NY,40.76848293,-73.73403725
+Station_304,New York_304,New York,Level 2,NY,40.8454514,-74.2278682
+Station_484,Houston_484,Houston,DC Fast Charger,TX,29.59955367,-95.55391055
+Station_424,Los Angeles_424,Los Angeles,DC Fast Charger,CA,34.18682252,-118.3797044
+Station_66,Chicago_66,Chicago,Level 2,NY,41.75833034,-87.88777146
+Station_234,San Francisco_234,San Francisco,Level 1,CA,37.78264136,-122.4080426
+Station_457,New York_457,New York,Level 1,NY,40.89535078,-73.97472142
+Station_87,San Francisco_87,San Francisco,Level 1,CA,37.75925543,-122.5071293
+Station_79,Los Angeles_79,Los Angeles,Level 1,CA,33.97236383,-118.288767
+Station_205,Los Angeles_205,Los Angeles,Level 2,CA,33.75936248,-118.1794253
+Station_279,San Francisco_279,San Francisco,Level 1,CA,37.80031503,-122.4279681
+Station_337,Chicago_337,Chicago,Level 2,NY,41.81625414,-87.69640639
+Station_254,Los Angeles_254,Los Angeles,Level 2,CA,34.31801108,-118.1602181
+Station_304,San Francisco_304,San Francisco,Level 2,CA,37.78067379,-122.4768782
+Station_380,New York_380,New York,Level 2,NY,40.69231535,-73.8856094
+Station_130,San Francisco_130,San Francisco,Level 2,CA,37.77023956,-122.4184344
+Station_84,San Francisco_84,San Francisco,DC Fast Charger,CA,37.7590071,-122.5054012
+Station_276,Houston_276,Houston,Level 2,TX,29.70877663,-95.53335329
+Station_187,Los Angeles_187,Los Angeles,Level 1,CA,34.13558678,-118.2325561
+Station_46,Chicago_46,Chicago,Level 2,NY,41.7752195,-87.64865706
+Station_387,Chicago_387,Chicago,Level 1,NY,41.7581693,-87.54301871
+Station_183,Houston_183,Houston,Level 2,TX,29.61666114,-95.2429166
+Station_268,Chicago_268,Chicago,Level 1,NY,41.97356207,-87.70895942
+Station_296,San Francisco_296,San Francisco,Level 2,CA,37.75457911,-122.4696773
+Station_322,Houston_322,Houston,DC Fast Charger,TX,29.69396427,-95.02385222
+Station_100,New York_100,New York,Level 1,NY,40.66379527,-73.96638821
+Station_78,Los Angeles_78,Los Angeles,Level 1,CA,34.34227749,-118.3345932
+Station_272,Los Angeles_272,Los Angeles,Level 2,CA,34.05268584,-118.4592437
+Station_339,Los Angeles_339,Los Angeles,Level 1,CA,34.19168805,-118.3510415
+Station_162,San Francisco_162,San Francisco,Level 2,CA,37.79119886,-122.4874307
+Station_44,New York_44,New York,DC Fast Charger,NY,40.72616444,-73.72267307
+Station_238,Houston_238,Houston,DC Fast Charger,TX,29.76286966,-95.24139998
+Station_134,Houston_134,Houston,Level 2,TX,29.57285565,-95.02148255
+Station_461,Los Angeles_461,Los Angeles,Level 2,CA,34.09576658,-118.5479583
+Station_192,New York_192,New York,DC Fast Charger,NY,40.72746811,-74.21500657
+Station_356,New York_356,New York,Level 1,NY,40.91667057,-73.73137137
+Station_278,New York_278,New York,Level 1,NY,40.68842259,-74.20069497
+Station_18,Chicago_18,Chicago,Level 1,NY,41.9811787,-87.73068229
+Station_12,Chicago_12,Chicago,DC Fast Charger,NY,41.93380736,-87.72627375
+Station_180,Los Angeles_180,Los Angeles,Level 2,CA,33.87772618,-118.2442908
+Station_123,New York_123,New York,DC Fast Charger,NY,40.91150519,-74.12619877
+Station_246,New York_246,New York,Level 1,NY,40.72704398,-74.04368425
+Station_222,Houston_222,Houston,Level 2,TX,30.05312089,-95.39340729
+Station_373,Houston_373,Houston,Level 2,TX,30.02759575,-95.10877845
+Station_51,Los Angeles_51,Los Angeles,Level 1,CA,33.87956081,-118.2670968
+Station_488,New York_488,New York,Level 2,NY,40.66842524,-73.71879345
+Station_71,Los Angeles_71,Los Angeles,Level 1,CA,34.03002949,-118.2515198
+Station_480,Houston_480,Houston,DC Fast Charger,TX,29.66970339,-95.56115532
+Station_48,Houston_48,Houston,Level 2,TX,29.85216263,-95.00087813
+Station_19,Chicago_19,Chicago,Level 1,NY,41.84075254,-87.87758992
+Station_262,Los Angeles_262,Los Angeles,Level 1,CA,34.05007738,-118.4939868
+Station_84,Los Angeles_84,Los Angeles,DC Fast Charger,CA,34.05874632,-118.3928507
+Station_155,New York_155,New York,Level 2,NY,40.68579819,-74.08015136
+Station_53,New York_53,New York,Level 2,NY,40.57112052,-73.85847593
+Station_107,Chicago_107,Chicago,Level 2,NY,41.87443703,-87.84190377
+Station_357,San Francisco_357,San Francisco,Level 2,CA,37.78936462,-122.4071635
+Station_304,San Francisco_304,San Francisco,DC Fast Charger,CA,37.78067379,-122.4768782
+Station_135,San Francisco_135,San Francisco,DC Fast Charger,CA,37.79736907,-122.4582274
+Station_443,Los Angeles_443,Los Angeles,Level 2,CA,34.13139774,-118.2514187
+Station_69,Los Angeles_69,Los Angeles,Level 1,CA,34.33753179,-118.4173824
+Station_11,Houston_11,Houston,Level 2,TX,29.52221177,-95.39816708
+Station_143,Los Angeles_143,Los Angeles,Level 2,CA,34.08361728,-118.2264528
+Station_192,Los Angeles_192,Los Angeles,Level 1,CA,34.26822374,-118.4454438
+Station_387,Los Angeles_387,Los Angeles,Level 2,CA,34.04186821,-118.4369667
+Station_378,Chicago_378,Chicago,Level 1,NY,41.93620197,-87.76780898
+Station_69,Los Angeles_69,Los Angeles,DC Fast Charger,CA,34.33753179,-118.4173824
+Station_23,New York_23,New York,Level 1,NY,40.77155597,-74.17892688
+Station_181,New York_181,New York,DC Fast Charger,NY,40.69188096,-73.69816986
+Station_293,Houston_293,Houston,Level 2,TX,29.70313674,-95.24583632
+Station_9,Chicago_9,Chicago,Level 1,NY,41.90643303,-87.58225858
+Station_271,New York_271,New York,Level 1,NY,40.79904849,-73.82195293
+Station_387,Chicago_387,Chicago,Level 2,NY,41.7581693,-87.54301871
+Station_93,Chicago_93,Chicago,DC Fast Charger,NY,41.99767704,-87.92492238
+Station_454,Houston_454,Houston,Level 1,TX,29.54105245,-95.29507119
+Station_17,Chicago_17,Chicago,Level 1,NY,42.01758093,-87.52108111
+Station_154,Los Angeles_154,Los Angeles,Level 2,CA,33.74614551,-118.3481375
+Station_405,Chicago_405,Chicago,DC Fast Charger,NY,41.94617421,-87.75773198
+Station_328,Houston_328,Houston,Level 2,TX,29.55906588,-95.29300174
+Station_149,Houston_149,Houston,Level 1,TX,30.02354754,-95.44505716
+Station_377,Houston_377,Houston,Level 2,TX,29.9164007,-95.07726075
+Station_267,New York_267,New York,Level 2,NY,40.73334907,-73.80241351
+Station_422,Los Angeles_422,Los Angeles,DC Fast Charger,CA,34.26604574,-118.3539477
+Station_328,New York_328,New York,DC Fast Charger,NY,40.59355681,-73.73143088
+Station_106,San Francisco_106,San Francisco,Level 2,CA,37.71717413,-122.446216
+Station_381,Chicago_381,Chicago,Level 2,NY,41.74413071,-87.83276278
+Station_119,San Francisco_119,San Francisco,DC Fast Charger,CA,37.80814513,-122.4115823
+Station_14,Los Angeles_14,Los Angeles,Level 1,CA,34.19777889,-118.4041371
+Station_14,New York_14,New York,DC Fast Charger,NY,40.63859322,-73.92333269
+Station_266,Houston_266,Houston,DC Fast Charger,TX,29.88336322,-95.46055285
+Station_140,New York_140,New York,Level 1,NY,40.5793488,-74.14549513
+Station_294,Los Angeles_294,Los Angeles,Level 1,CA,33.86256385,-118.238895
+Station_364,Los Angeles_364,Los Angeles,Level 2,CA,34.07174975,-118.3768459
+Station_238,Chicago_238,Chicago,DC Fast Charger,NY,42.04700374,-87.81600308
+Station_34,New York_34,New York,DC Fast Charger,NY,40.91051613,-73.88164441
+Station_169,San Francisco_169,San Francisco,Level 2,CA,37.7116317,-122.4510318
+Station_10,Houston_10,Houston,DC Fast Charger,TX,29.66468823,-95.34725679
+Station_122,Chicago_122,Chicago,DC Fast Charger,NY,41.92117779,-87.62723909
+Station_401,San Francisco_401,San Francisco,Level 1,CA,37.72990379,-122.3842662
+Station_145,New York_145,New York,Level 1,NY,40.70359273,-73.73654838
+Station_451,Los Angeles_451,Los Angeles,Level 2,CA,33.8860262,-118.2625813
+Station_446,Houston_446,Houston,DC Fast Charger,TX,29.864239,-95.51814324
+Station_223,New York_223,New York,Level 2,NY,40.72226546,-74.1883593
+Station_371,Chicago_371,Chicago,Level 1,NY,41.90101333,-87.67922571
+Station_257,Chicago_257,Chicago,DC Fast Charger,NY,41.91788343,-87.63721008
+Station_268,Los Angeles_268,Los Angeles,DC Fast Charger,CA,34.128468,-118.2424481
+Station_359,Los Angeles_359,Los Angeles,Level 2,CA,34.10836127,-118.2092641
+Station_4,Houston_4,Houston,DC Fast Charger,TX,29.88780437,-95.55285369
+Station_426,Houston_426,Houston,DC Fast Charger,TX,29.76449391,-95.33634096
+Station_397,Los Angeles_397,Los Angeles,Level 1,CA,34.17603385,-118.624032
+Station_354,Los Angeles_354,Los Angeles,Level 2,CA,33.89182179,-118.2887848
+Station_106,Chicago_106,Chicago,Level 1,NY,41.71201243,-87.88449288
+Station_85,Los Angeles_85,Los Angeles,Level 2,CA,34.05061504,-118.1745403
+Station_214,San Francisco_214,San Francisco,Level 1,CA,37.79965671,-122.4788848
+Station_121,New York_121,New York,Level 2,NY,40.84461662,-73.98570978
+Station_132,Los Angeles_132,Los Angeles,DC Fast Charger,CA,34.22421752,-118.2892547
+Station_338,Houston_338,Houston,DC Fast Charger,TX,30.06976704,-95.64051145
+Station_197,San Francisco_197,San Francisco,Level 2,CA,37.74064583,-122.5015728
+Station_19,Houston_19,Houston,Level 2,TX,30.07773598,-95.68739439
+Station_12,Los Angeles_12,Los Angeles,Level 2,CA,34.32822514,-118.2313283
+Station_81,New York_81,New York,DC Fast Charger,NY,40.80141319,-73.69183408
+Station_330,Houston_330,Houston,Level 2,TX,30.08036185,-95.15632988
+Station_354,San Francisco_354,San Francisco,DC Fast Charger,CA,37.74389301,-122.3934909
+Station_262,Chicago_262,Chicago,DC Fast Charger,NY,41.64570665,-87.71463963
+Station_392,Los Angeles_392,Los Angeles,Level 2,CA,33.99561092,-118.3268575
+Station_125,New York_125,New York,DC Fast Charger,NY,40.77910654,-73.92510955
+Station_307,Los Angeles_307,Los Angeles,Level 2,CA,34.23457125,-118.1904511
+Station_267,Chicago_267,Chicago,DC Fast Charger,NY,41.6844219,-87.8417948
+Station_441,Chicago_441,Chicago,Level 2,NY,41.65026011,-87.56862137
+Station_383,Los Angeles_383,Los Angeles,Level 1,CA,34.0649148,-118.2032195
+Station_140,San Francisco_140,San Francisco,Level 1,CA,37.73626282,-122.4546727
+Station_329,Los Angeles_329,Los Angeles,Level 2,CA,33.79085506,-118.1874066
+Station_2,Los Angeles_2,Los Angeles,Level 1,CA,33.7631748,-118.2174978
+Station_8,Los Angeles_8,Los Angeles,DC Fast Charger,CA,34.13581604,-118.2909985
+Station_250,Houston_250,Houston,Level 2,TX,30.06758445,-95.4646986
+Station_139,Chicago_139,Chicago,Level 2,NY,41.9443303,-87.87510038
+Station_124,Chicago_124,Chicago,Level 2,NY,41.81010266,-87.89841091
+Station_309,Chicago_309,Chicago,Level 1,NY,41.84063229,-87.76859133
+Station_228,Houston_228,Houston,Level 1,TX,30.07091292,-95.77382697
+Station_10,San Francisco_10,San Francisco,DC Fast Charger,CA,37.7444636,-122.4490587
+Station_469,Los Angeles_469,Los Angeles,Level 1,CA,34.31786086,-118.2337204
+Station_212,San Francisco_212,San Francisco,Level 1,CA,37.70888986,-122.4192887
+Station_112,Houston_112,Houston,DC Fast Charger,TX,29.55961277,-95.25145579
+Station_8,Chicago_8,Chicago,Level 2,NY,41.863231,-87.52930614
+Station_477,New York_477,New York,DC Fast Charger,NY,40.57161768,-74.19792577
+Station_362,New York_362,New York,Level 1,NY,40.85465427,-74.00171675
+Station_460,San Francisco_460,San Francisco,DC Fast Charger,CA,37.77953225,-122.4173273
+Station_253,Chicago_253,Chicago,DC Fast Charger,NY,41.95342181,-87.68534659
+Station_14,New York_14,New York,Level 2,NY,40.63859322,-73.92333269
+Station_240,San Francisco_240,San Francisco,Level 1,CA,37.77165752,-122.5165828
+Station_438,Houston_438,Houston,Level 2,TX,29.97207675,-95.60514488
+Station_242,San Francisco_242,San Francisco,Level 2,CA,37.71511087,-122.4296675
+Station_469,San Francisco_469,San Francisco,DC Fast Charger,CA,37.70823322,-122.3975748
+Station_342,San Francisco_342,San Francisco,Level 2,CA,37.72485888,-122.4854478
+Station_149,Los Angeles_149,Los Angeles,Level 2,CA,34.26530203,-118.5024346
+Station_236,San Francisco_236,San Francisco,Level 2,CA,37.7177065,-122.375915
+Station_306,San Francisco_306,San Francisco,Level 1,CA,37.71736256,-122.4992013
+Station_478,Los Angeles_478,Los Angeles,Level 1,CA,34.12968747,-118.6568521
+Station_167,Los Angeles_167,Los Angeles,Level 2,CA,33.70965921,-118.2671078
+Station_20,Houston_20,Houston,DC Fast Charger,TX,29.64275896,-95.54098283
+Station_343,New York_343,New York,Level 2,NY,40.56492587,-74.23908458
+Station_135,New York_135,New York,Level 1,NY,40.80893876,-73.95960954
+Station_393,San Francisco_393,San Francisco,DC Fast Charger,CA,37.78947983,-122.4438006
+Station_129,Houston_129,Houston,DC Fast Charger,TX,29.96681022,-95.38940963
+Station_410,San Francisco_410,San Francisco,Level 1,CA,37.71308648,-122.4393858
+Station_422,New York_422,New York,Level 1,NY,40.89652873,-74.24441463
+Station_294,Los Angeles_294,Los Angeles,DC Fast Charger,CA,33.86256385,-118.238895
+Station_246,Chicago_246,Chicago,Level 2,NY,41.96112307,-87.57586802
+Station_189,Houston_189,Houston,DC Fast Charger,TX,29.81287073,-95.43356598
+Station_44,Los Angeles_44,Los Angeles,Level 1,CA,33.99492041,-118.1835539
+Station_86,Chicago_86,Chicago,Level 1,NY,42.03525074,-87.91445333
+Station_44,Houston_44,Houston,Level 1,TX,29.78738915,-95.4787062
+Station_330,Houston_330,Houston,Level 1,TX,30.08036185,-95.15632988
+Station_375,New York_375,New York,Level 2,NY,40.78502192,-73.98074138
+Station_446,Los Angeles_446,Los Angeles,DC Fast Charger,CA,34.29130554,-118.6325197
+Station_378,Houston_378,Houston,Level 1,TX,29.78516943,-95.36015713
+Station_390,Houston_390,Houston,Level 1,TX,29.54847429,-95.31336206
+Station_145,Chicago_145,Chicago,Level 1,NY,41.66692972,-87.82449328
+Station_51,New York_51,New York,DC Fast Charger,NY,40.76222299,-73.9464697
+Station_242,San Francisco_242,San Francisco,Level 1,CA,37.71511087,-122.4296675
+Station_294,New York_294,New York,DC Fast Charger,NY,40.62982974,-73.68316962
+Station_408,San Francisco_408,San Francisco,Level 2,CA,37.76366682,-122.4474055
+Station_266,Los Angeles_266,Los Angeles,Level 2,CA,34.09352741,-118.619419
+Station_200,Los Angeles_200,Los Angeles,Level 2,CA,34.18485803,-118.5012964
+Station_405,Houston_405,Houston,Level 1,TX,29.92106765,-95.11776581
+Station_248,New York_248,New York,Level 2,NY,40.76989417,-73.81631199
+Station_70,Los Angeles_70,Los Angeles,Level 2,CA,34.16854595,-118.5603382
+Station_341,New York_341,New York,Level 2,NY,40.57562587,-74.25558902
+Station_57,New York_57,New York,Level 2,NY,40.68416861,-74.13518879
+Station_382,Los Angeles_382,Los Angeles,Level 2,CA,34.15694191,-118.438444
+Station_39,New York_39,New York,DC Fast Charger,NY,40.6357406,-74.00243565
+Station_472,Los Angeles_472,Los Angeles,DC Fast Charger,CA,34.2868236,-118.3560874
+Station_289,Los Angeles_289,Los Angeles,Level 1,CA,33.9773966,-118.330795
+Station_443,Los Angeles_443,Los Angeles,DC Fast Charger,CA,34.13139774,-118.2514187
+Station_18,San Francisco_18,San Francisco,DC Fast Charger,CA,37.74491612,-122.4955778
+Station_440,New York_440,New York,Level 1,NY,40.88688357,-74.23039135
+Station_220,Chicago_220,Chicago,DC Fast Charger,NY,41.98102647,-87.90084336
+Station_313,Los Angeles_313,Los Angeles,Level 1,CA,34.18226755,-118.3279795
+Station_244,New York_244,New York,Level 1,NY,40.83906079,-73.94174127
+Station_352,Houston_352,Houston,DC Fast Charger,TX,29.89854261,-95.53583997
+Station_460,Los Angeles_460,Los Angeles,Level 2,CA,34.0812023,-118.3835909
+Station_304,Los Angeles_304,Los Angeles,Level 1,CA,33.92983875,-118.3306763
+Station_298,Chicago_298,Chicago,Level 2,NY,41.70879355,-87.68495605
+Station_283,San Francisco_283,San Francisco,Level 1,CA,37.77204921,-122.4637366
+Station_110,Los Angeles_110,Los Angeles,Level 2,CA,34.07564704,-118.5615032
+Station_32,Houston_32,Houston,Level 2,TX,29.89404178,-95.6206041
+Station_234,New York_234,New York,DC Fast Charger,NY,40.64805125,-73.82006268
+Station_282,Los Angeles_282,Los Angeles,DC Fast Charger,CA,34.073165,-118.2583171
+Station_25,Houston_25,Houston,Level 2,TX,30.0070931,-95.02036272
+Station_331,San Francisco_331,San Francisco,Level 1,CA,37.79821122,-122.4218283
+Station_279,New York_279,New York,Level 1,NY,40.76636064,-74.25451024
+Station_226,Chicago_226,Chicago,DC Fast Charger,NY,42.02092456,-87.59162647
+Station_57,Los Angeles_57,Los Angeles,Level 1,CA,34.1567542,-118.5124178
+Station_180,New York_180,New York,Level 2,NY,40.72898038,-73.84613912
+Station_232,Houston_232,Houston,Level 2,TX,29.70389479,-95.79511537
+Station_343,San Francisco_343,San Francisco,DC Fast Charger,CA,37.80438352,-122.4293886
+Station_477,Los Angeles_477,Los Angeles,Level 2,CA,34.11156181,-118.6543649
+Station_287,Los Angeles_287,Los Angeles,Level 2,CA,34.18497265,-118.5602822
+Station_64,San Francisco_64,San Francisco,DC Fast Charger,CA,37.7503799,-122.4654566
+Station_455,San Francisco_455,San Francisco,DC Fast Charger,CA,37.74440637,-122.4045446
+Station_232,Los Angeles_232,Los Angeles,Level 2,CA,34.20494315,-118.3805273
+Station_289,San Francisco_289,San Francisco,DC Fast Charger,CA,37.71888919,-122.4211459
+Station_213,New York_213,New York,Level 1,NY,40.77980655,-74.10945932
+Station_258,San Francisco_258,San Francisco,Level 2,CA,37.77943264,-122.4422941
+Station_18,San Francisco_18,San Francisco,Level 2,CA,37.74491612,-122.4955778
+Station_175,Los Angeles_175,Los Angeles,DC Fast Charger,CA,34.19071304,-118.6119531
+Station_417,New York_417,New York,DC Fast Charger,NY,40.62414162,-73.8703651
+Station_229,Chicago_229,Chicago,Level 2,NY,41.81626459,-87.82103648
+Station_84,Houston_84,Houston,Level 1,TX,29.90709175,-95.4106938
+Station_291,San Francisco_291,San Francisco,DC Fast Charger,CA,37.78005591,-122.5127332
+Station_435,San Francisco_435,San Francisco,Level 2,CA,37.74743161,-122.424108
+Station_370,New York_370,New York,DC Fast Charger,NY,40.58083061,-74.18903146
+Station_402,Houston_402,Houston,Level 1,TX,30.09852256,-95.39237897
+Station_110,New York_110,New York,Level 2,NY,40.59987339,-74.07640781
+Station_254,San Francisco_254,San Francisco,Level 1,CA,37.70092759,-122.4004777
+Station_88,Chicago_88,Chicago,Level 1,NY,41.71203487,-87.78031287
+Station_72,Houston_72,Houston,Level 1,TX,29.92220276,-95.39979012
+Station_381,Los Angeles_381,Los Angeles,Level 1,CA,34.24168023,-118.2588379
+Station_30,Chicago_30,Chicago,Level 1,NY,41.66955095,-87.57805897
+Station_172,Houston_172,Houston,DC Fast Charger,TX,29.52538136,-95.78500677
+Station_309,New York_309,New York,Level 1,NY,40.73757644,-73.93169419
+Station_394,Los Angeles_394,Los Angeles,DC Fast Charger,CA,34.16117433,-118.4569761
+Station_343,Houston_343,Houston,DC Fast Charger,TX,29.56910402,-95.78331475
+Station_194,San Francisco_194,San Francisco,Level 1,CA,37.73897218,-122.3917885
+Station_186,Los Angeles_186,Los Angeles,DC Fast Charger,CA,34.10178142,-118.2456668
+Station_218,Houston_218,Houston,Level 2,TX,30.05186185,-95.72949609
+Station_164,San Francisco_164,San Francisco,DC Fast Charger,CA,37.80133812,-122.4810694
+Station_161,Chicago_161,Chicago,Level 2,NY,41.88143723,-87.71993573
+Station_431,Los Angeles_431,Los Angeles,DC Fast Charger,CA,33.77411732,-118.4099244
+Station_13,New York_13,New York,Level 2,NY,40.87954677,-74.06386859
+Station_296,San Francisco_296,San Francisco,Level 1,CA,37.75457911,-122.4696773
+Station_89,Los Angeles_89,Los Angeles,Level 1,CA,34.17279642,-118.2523362
+Station_324,New York_324,New York,Level 1,NY,40.84046591,-74.13060138
+Station_42,San Francisco_42,San Francisco,DC Fast Charger,CA,37.71757331,-122.4884365
+Station_403,Los Angeles_403,Los Angeles,Level 1,CA,34.09155934,-118.2822902
+Station_210,Los Angeles_210,Los Angeles,Level 1,CA,34.12608086,-118.5796555
+Station_229,San Francisco_229,San Francisco,Level 2,CA,37.79274177,-122.4409413
+Station_350,Los Angeles_350,Los Angeles,Level 2,CA,34.19038979,-118.2824627
+Station_275,Houston_275,Houston,Level 2,TX,29.94875539,-95.7083737
+Station_442,San Francisco_442,San Francisco,Level 1,CA,37.78894771,-122.4317311
+Station_251,New York_251,New York,Level 2,NY,40.68302926,-73.72474899
+Station_310,New York_310,New York,Level 1,NY,40.70008847,-73.82268285
+Station_321,San Francisco_321,San Francisco,DC Fast Charger,CA,37.76773901,-122.4183523
+Station_140,Los Angeles_140,Los Angeles,Level 2,CA,34.10593916,-118.2292341
+Station_280,Los Angeles_280,Los Angeles,DC Fast Charger,CA,34.10769131,-118.5930117
+Station_34,New York_34,New York,Level 2,NY,40.91051613,-73.88164441
+Station_309,Houston_309,Houston,Level 2,TX,29.54097176,-95.44623355
+Station_392,New York_392,New York,DC Fast Charger,NY,40.62021279,-74.10794254
+Station_18,New York_18,New York,Level 1,NY,40.62347538,-74.00337082
+Station_57,Houston_57,Houston,DC Fast Charger,TX,29.53413403,-95.13464269
+Station_112,San Francisco_112,San Francisco,Level 1,CA,37.70920772,-122.38172
+Station_5,Los Angeles_5,Los Angeles,Level 2,CA,34.25594069,-118.3563457
+Station_414,Chicago_414,Chicago,Level 1,NY,41.84789781,-87.7456611
+Station_182,Chicago_182,Chicago,DC Fast Charger,NY,41.86726971,-87.60743653
+Station_13,Chicago_13,Chicago,Level 1,NY,42.00730947,-87.75111184
+Station_339,Houston_339,Houston,Level 1,TX,29.98588955,-95.27853004
+Station_285,New York_285,New York,DC Fast Charger,NY,40.62825651,-73.98937887
+Station_259,San Francisco_259,San Francisco,Level 1,CA,37.71242023,-122.3761397
+Station_90,Los Angeles_90,Los Angeles,Level 1,CA,34.02685275,-118.2351129
+Station_104,Chicago_104,Chicago,DC Fast Charger,NY,41.78080949,-87.63998747
+Station_379,San Francisco_379,San Francisco,DC Fast Charger,CA,37.76054588,-122.4923906
+Station_186,Chicago_186,Chicago,DC Fast Charger,NY,41.74157493,-87.75614152
+Station_250,Chicago_250,Chicago,Level 1,NY,41.82016293,-87.72044583
+Station_255,Los Angeles_255,Los Angeles,Level 2,CA,33.91993865,-118.3650782
+Station_76,Houston_76,Houston,DC Fast Charger,TX,29.97353616,-95.28215571
+Station_386,New York_386,New York,DC Fast Charger,NY,40.5183421,-74.21424149
+Station_459,Houston_459,Houston,Level 1,TX,29.90702761,-95.57268242
+Station_108,San Francisco_108,San Francisco,Level 2,CA,37.78684804,-122.4149497
+Station_156,Houston_156,Houston,Level 2,TX,30.04380562,-95.10137627
+Station_82,San Francisco_82,San Francisco,Level 1,CA,37.74000344,-122.4267617
+Station_77,San Francisco_77,San Francisco,DC Fast Charger,CA,37.71697141,-122.4640287
+Station_470,Los Angeles_470,Los Angeles,Level 2,CA,34.32900273,-118.3137752
+Station_460,New York_460,New York,DC Fast Charger,NY,40.65854193,-73.91892568
+Station_258,Houston_258,Houston,Level 2,TX,30.06280132,-95.55233449
+Station_127,San Francisco_127,San Francisco,Level 2,CA,37.74520152,-122.3933341
+Station_485,Chicago_485,Chicago,Level 2,NY,41.97340576,-87.65855111
+Station_391,Chicago_391,Chicago,Level 2,NY,41.97987318,-87.62971464
+Station_282,San Francisco_282,San Francisco,DC Fast Charger,CA,37.76007033,-122.4914157
+Station_474,New York_474,New York,DC Fast Charger,NY,40.78472821,-73.95942793
+Station_88,Los Angeles_88,Los Angeles,DC Fast Charger,CA,34.11991613,-118.4540628
+Station_204,New York_204,New York,Level 1,NY,40.56751306,-74.14362633
+Station_16,San Francisco_16,San Francisco,DC Fast Charger,CA,37.74542413,-122.4316735
+Station_151,San Francisco_151,San Francisco,Level 2,CA,37.72718517,-122.4979895
+Station_424,Los Angeles_424,Los Angeles,Level 2,CA,34.18682252,-118.3797044
+Station_254,Houston_254,Houston,DC Fast Charger,TX,29.54629905,-95.12445729
+Station_188,Houston_188,Houston,DC Fast Charger,TX,29.56068446,-95.18330022
+Station_329,Los Angeles_329,Los Angeles,Level 1,CA,33.79085506,-118.1874066
+Station_32,Houston_32,Houston,DC Fast Charger,TX,29.89404178,-95.6206041
+Station_271,Chicago_271,Chicago,Level 1,NY,41.98239913,-87.56885349
+Station_485,Houston_485,Houston,DC Fast Charger,TX,29.5226485,-95.5305885
+Station_397,Houston_397,Houston,Level 1,TX,29.95978456,-95.69516077
+Station_5,Houston_5,Houston,DC Fast Charger,TX,29.72603192,-95.67020223
+Station_459,Chicago_459,Chicago,DC Fast Charger,NY,41.85425474,-87.75078392
+Station_330,Houston_330,Houston,DC Fast Charger,TX,30.08036185,-95.15632988
+Station_308,Chicago_308,Chicago,Level 1,NY,41.98085147,-87.61613892
+Station_333,Los Angeles_333,Los Angeles,Level 2,CA,34.22587842,-118.585575
+Station_169,New York_169,New York,Level 1,NY,40.67213881,-73.99445545
+Station_181,Los Angeles_181,Los Angeles,DC Fast Charger,CA,33.98448771,-118.4604621
+Station_366,New York_366,New York,Level 2,NY,40.78083606,-74.12985718
+Station_178,Los Angeles_178,Los Angeles,Level 1,CA,34.18654874,-118.4410467
+Station_143,New York_143,New York,Level 1,NY,40.71962479,-74.08741394
+Station_362,New York_362,New York,Level 2,NY,40.85465427,-74.00171675
+Station_248,San Francisco_248,San Francisco,DC Fast Charger,CA,37.79703486,-122.4449575
+Station_127,New York_127,New York,Level 2,NY,40.84909876,-74.05297383
+Station_263,New York_263,New York,DC Fast Charger,NY,40.68852239,-74.10375468
+Station_40,San Francisco_40,San Francisco,Level 2,CA,37.74582469,-122.4356064
+Station_412,Houston_412,Houston,Level 1,TX,30.07976089,-95.14648701
+Station_416,Houston_416,Houston,Level 1,TX,29.98075553,-95.68928117
+Station_355,San Francisco_355,San Francisco,Level 1,CA,37.71266466,-122.366274
+Station_255,Chicago_255,Chicago,DC Fast Charger,NY,41.74250132,-87.6707048
+Station_143,New York_143,New York,DC Fast Charger,NY,40.71962479,-74.08741394
+Station_240,New York_240,New York,Level 2,NY,40.86587029,-73.94282096
+Station_341,San Francisco_341,San Francisco,DC Fast Charger,CA,37.71231077,-122.3846572
+Station_198,Chicago_198,Chicago,Level 2,NY,41.98897808,-87.82027353
+Station_65,Houston_65,Houston,DC Fast Charger,TX,29.9578701,-95.58176696
+Station_388,Los Angeles_388,Los Angeles,Level 2,CA,34.28844904,-118.5948522
+Station_11,Houston_11,Houston,DC Fast Charger,TX,29.52221177,-95.39816708
+Station_108,New York_108,New York,DC Fast Charger,NY,40.6781132,-73.71161617
+Station_26,San Francisco_26,San Francisco,Level 1,CA,37.72664456,-122.4478195
+Station_445,Chicago_445,Chicago,DC Fast Charger,NY,41.78332988,-87.92879852
+Station_421,Houston_421,Houston,Level 2,TX,29.53195413,-95.39839431
+Station_151,Chicago_151,Chicago,Level 2,NY,41.73666901,-87.52229935
+Station_221,Houston_221,Houston,Level 1,TX,29.7249476,-95.77744996
+Station_496,Los Angeles_496,Los Angeles,Level 1,CA,34.30503684,-118.2420201
+Station_237,Chicago_237,Chicago,DC Fast Charger,NY,41.90648388,-87.60762013
+Station_237,Chicago_237,Chicago,Level 1,NY,41.90648388,-87.60762013
+Station_497,Los Angeles_497,Los Angeles,DC Fast Charger,CA,34.23934503,-118.3150033
+Station_219,Chicago_219,Chicago,Level 2,NY,41.696905,-87.64367481
+Station_487,Chicago_487,Chicago,Level 1,NY,41.92817053,-87.8262151
+Station_424,Houston_424,Houston,Level 2,TX,29.76916088,-95.79579904
+Station_151,Los Angeles_151,Los Angeles,Level 2,CA,34.24272601,-118.3901098
+Station_123,New York_123,New York,Level 2,NY,40.91150519,-74.12619877
+Station_144,Chicago_144,Chicago,Level 2,NY,41.93816626,-87.71833597
+Station_478,New York_478,New York,Level 1,NY,40.61949501,-74.24182783
+Station_255,Los Angeles_255,Los Angeles,Level 1,CA,33.91993865,-118.3650782
+Station_104,Chicago_104,Chicago,Level 1,NY,41.78080949,-87.63998747
+Station_336,San Francisco_336,San Francisco,Level 2,CA,37.75037907,-122.3929761
+Station_159,Los Angeles_159,Los Angeles,Level 2,CA,34.28834548,-118.3656631
+Station_409,Houston_409,Houston,Level 1,TX,29.50986121,-95.38769942
+Station_300,New York_300,New York,Level 2,NY,40.5940334,-74.18528966
+Station_396,Los Angeles_396,Los Angeles,Level 2,CA,33.97900528,-118.3564471
+Station_357,New York_357,New York,Level 2,NY,40.77567966,-74.21948777
+Station_256,Los Angeles_256,Los Angeles,Level 1,CA,34.33352542,-118.6354835
+Station_496,Chicago_496,Chicago,Level 1,NY,41.85568437,-87.72692237
+Station_353,Los Angeles_353,Los Angeles,Level 2,CA,34.34241547,-118.3873825
+Station_220,Houston_220,Houston,Level 2,TX,29.73427224,-95.42389194
+Station_12,San Francisco_12,San Francisco,Level 1,CA,37.7946224,-122.4648316
+Station_325,Los Angeles_325,Los Angeles,Level 1,CA,34.17641166,-118.3495889
+Station_438,Los Angeles_438,Los Angeles,DC Fast Charger,CA,34.20147589,-118.2950546
+Station_244,Houston_244,Houston,Level 2,TX,29.69951117,-95.76453145
+Station_182,Houston_182,Houston,DC Fast Charger,TX,29.82760825,-95.14919291
+Station_284,New York_284,New York,Level 1,NY,40.68978785,-73.85972034
+Station_312,New York_312,New York,DC Fast Charger,NY,40.76164641,-73.79121637
+Station_99,New York_99,New York,Level 1,NY,40.68680222,-74.09686888
+Station_197,Houston_197,Houston,DC Fast Charger,TX,29.52628377,-95.64042413
+Station_482,New York_482,New York,DC Fast Charger,NY,40.71161494,-73.68641761
+Station_226,San Francisco_226,San Francisco,Level 2,CA,37.71889193,-122.3662754
+Station_333,New York_333,New York,DC Fast Charger,NY,40.7235032,-74.12054488
+Station_103,Los Angeles_103,Los Angeles,Level 1,CA,34.1896391,-118.5725373
+Station_106,Houston_106,Houston,Level 2,TX,29.71418451,-95.17532675
+Station_365,Chicago_365,Chicago,DC Fast Charger,NY,41.99497729,-87.80059163
+Station_368,San Francisco_368,San Francisco,Level 1,CA,37.714937,-122.4611169
+Station_58,Houston_58,Houston,Level 2,TX,30.03369191,-95.20535384
+Station_78,Houston_78,Houston,DC Fast Charger,TX,30.0367825,-95.49068419
+Station_75,Los Angeles_75,Los Angeles,Level 1,CA,34.33292033,-118.4169364
+Station_42,New York_42,New York,Level 1,NY,40.70393506,-73.72465682
+Station_33,Houston_33,Houston,Level 1,TX,29.81156551,-95.15908153
+Station_71,New York_71,New York,DC Fast Charger,NY,40.80264497,-74.22343307
+Station_56,San Francisco_56,San Francisco,Level 2,CA,37.7722944,-122.3884254
+Station_105,San Francisco_105,San Francisco,Level 1,CA,37.76545693,-122.4686062
+Station_200,San Francisco_200,San Francisco,DC Fast Charger,CA,37.70960827,-122.4142529
+Station_74,New York_74,New York,DC Fast Charger,NY,40.62179322,-73.91445324
+Station_171,Chicago_171,Chicago,Level 2,NY,41.81470759,-87.65029878
+Station_377,Los Angeles_377,Los Angeles,Level 1,CA,34.26552416,-118.4901948
+Station_166,Houston_166,Houston,Level 1,TX,30.09889036,-95.58035571
+Station_399,San Francisco_399,San Francisco,DC Fast Charger,CA,37.81760327,-122.3683353
+Station_261,San Francisco_261,San Francisco,Level 2,CA,37.70900494,-122.417998
+Station_221,Los Angeles_221,Los Angeles,Level 1,CA,33.93615223,-118.2614411
+Station_83,Houston_83,Houston,DC Fast Charger,TX,29.90764636,-95.03776848
+Station_182,Houston_182,Houston,Level 2,TX,29.82760825,-95.14919291
+Station_307,New York_307,New York,Level 1,NY,40.55139517,-73.91153199
+Station_10,San Francisco_10,San Francisco,Level 2,CA,37.7444636,-122.4490587
+Station_396,Los Angeles_396,Los Angeles,DC Fast Charger,CA,33.97900528,-118.3564471
+Station_4,Chicago_4,Chicago,DC Fast Charger,NY,41.96033791,-87.92538443
+Station_351,San Francisco_351,San Francisco,Level 1,CA,37.708068,-122.3954375
+Station_402,New York_402,New York,Level 2,NY,40.7339152,-73.91299405
+Station_336,Houston_336,Houston,Level 2,TX,29.90743723,-95.04094118
+Station_488,Los Angeles_488,Los Angeles,DC Fast Charger,CA,33.9418087,-118.2808269
+Station_292,San Francisco_292,San Francisco,Level 2,CA,37.76887061,-122.4352864
+Station_281,Chicago_281,Chicago,Level 2,NY,41.80319396,-87.66718449
+Station_215,New York_215,New York,Level 2,NY,40.59733301,-74.20306532
+Station_460,New York_460,New York,Level 1,NY,40.65854193,-73.91892568
+Station_98,San Francisco_98,San Francisco,DC Fast Charger,CA,37.78828098,-122.440153
+Station_420,Chicago_420,Chicago,Level 1,NY,41.79866483,-87.70409746
+Station_101,New York_101,New York,DC Fast Charger,NY,40.60256397,-74.11642904
+Station_451,Los Angeles_451,Los Angeles,Level 1,CA,33.8860262,-118.2625813
+Station_9,New York_9,New York,Level 1,NY,40.68189744,-73.68214458
+Station_61,Chicago_61,Chicago,Level 1,NY,41.75708652,-87.55507886
+Station_146,Houston_146,Houston,DC Fast Charger,TX,29.79472012,-95.70189006
+Station_427,San Francisco_427,San Francisco,Level 1,CA,37.70283973,-122.4890992
+Station_419,Chicago_419,Chicago,Level 2,NY,41.98965878,-87.75014207
+Station_63,New York_63,New York,Level 1,NY,40.87643198,-74.0073844
+Station_226,Houston_226,Houston,Level 1,TX,29.55267444,-95.25445659
+Station_105,Houston_105,Houston,DC Fast Charger,TX,30.00731273,-95.54432978
+Station_462,Los Angeles_462,Los Angeles,DC Fast Charger,CA,34.05241138,-118.2154208
+Station_260,Houston_260,Houston,Level 1,TX,30.01081723,-95.23055272
+Station_349,Los Angeles_349,Los Angeles,Level 1,CA,34.3027609,-118.344773
+Station_425,New York_425,New York,Level 1,NY,40.83128945,-73.96983411
+Station_429,Los Angeles_429,Los Angeles,Level 2,CA,33.79026997,-118.2669097
+Station_434,San Francisco_434,San Francisco,DC Fast Charger,CA,37.70315408,-122.4313566
+Station_207,Houston_207,Houston,Level 2,TX,29.7213467,-95.15707062
+Station_28,Los Angeles_28,Los Angeles,DC Fast Charger,CA,34.05857051,-118.3579063
+Station_170,New York_170,New York,Level 1,NY,40.91982587,-73.8458669
+Station_116,Houston_116,Houston,Level 1,TX,29.81541739,-95.18466836
+Station_69,San Francisco_69,San Francisco,Level 2,CA,37.75399694,-122.4111826
+Station_354,New York_354,New York,DC Fast Charger,NY,40.63814136,-73.75200351
+Station_234,San Francisco_234,San Francisco,Level 2,CA,37.78264136,-122.4080426
+Station_1,Chicago_1,Chicago,Level 2,NY,41.9599078,-87.67128655
+Station_352,Los Angeles_352,Los Angeles,Level 2,CA,33.81827604,-118.177205
+Station_218,Houston_218,Houston,DC Fast Charger,TX,30.05186185,-95.72949609
+Station_273,Los Angeles_273,Los Angeles,DC Fast Charger,CA,34.23254576,-118.1779924
+Station_368,New York_368,New York,Level 2,NY,40.67602586,-73.73267976
+Station_251,Chicago_251,Chicago,DC Fast Charger,NY,41.66271927,-87.88785233
+Station_347,San Francisco_347,San Francisco,Level 1,CA,37.71836186,-122.4936549
+Station_344,Chicago_344,Chicago,DC Fast Charger,NY,41.77229091,-87.6420805
+Station_419,Los Angeles_419,Los Angeles,Level 2,CA,33.924915,-118.1901389
+Station_174,San Francisco_174,San Francisco,Level 1,CA,37.73007264,-122.4183909
+Station_170,Houston_170,Houston,Level 1,TX,29.83050485,-95.69986376
+Station_246,Chicago_246,Chicago,Level 1,NY,41.96112307,-87.57586802
+Station_423,San Francisco_423,San Francisco,Level 1,CA,37.73633895,-122.4346435
+Station_90,San Francisco_90,San Francisco,Level 1,CA,37.76030878,-122.4930183
+Station_446,New York_446,New York,Level 2,NY,40.894891,-74.17902538
+Station_294,Chicago_294,Chicago,Level 1,NY,41.91008048,-87.63733424
+Station_407,San Francisco_407,San Francisco,Level 2,CA,37.77261667,-122.3851952
+Station_150,Chicago_150,Chicago,DC Fast Charger,NY,41.87108339,-87.59340077
+Station_132,San Francisco_132,San Francisco,Level 2,CA,37.77697445,-122.4277166
+Station_433,Houston_433,Houston,DC Fast Charger,TX,29.89067799,-95.1864328
+Station_59,Houston_59,Houston,Level 2,TX,29.74995207,-95.28880705
+Station_457,Houston_457,Houston,DC Fast Charger,TX,29.79882284,-95.29826879
+Station_324,Los Angeles_324,Los Angeles,DC Fast Charger,CA,33.88828658,-118.1821084
+Station_199,San Francisco_199,San Francisco,Level 1,CA,37.75795338,-122.3912499
+Station_386,Chicago_386,Chicago,Level 1,NY,41.92084624,-87.81507777
+Station_49,Los Angeles_49,Los Angeles,DC Fast Charger,CA,34.18105805,-118.186729
+Station_472,Chicago_472,Chicago,Level 2,NY,41.66991894,-87.91483653
+Station_232,Chicago_232,Chicago,Level 2,NY,41.82023825,-87.73661453
+Station_247,Chicago_247,Chicago,Level 1,NY,41.72364944,-87.68520269
+Station_479,San Francisco_479,San Francisco,Level 2,CA,37.7375099,-122.4050619
+Station_239,Los Angeles_239,Los Angeles,Level 2,CA,34.17722984,-118.2310035
+Station_415,San Francisco_415,San Francisco,DC Fast Charger,CA,37.8170449,-122.4990774
+Station_367,San Francisco_367,San Francisco,Level 1,CA,37.74446482,-122.4301358
+Station_168,Chicago_168,Chicago,DC Fast Charger,NY,41.77083751,-87.74408152
+Station_48,Los Angeles_48,Los Angeles,Level 1,CA,33.94969739,-118.3561575
+Station_51,San Francisco_51,San Francisco,DC Fast Charger,CA,37.72979243,-122.3815508
+Station_299,Houston_299,Houston,DC Fast Charger,TX,29.5958198,-95.53805134
+Station_439,Houston_439,Houston,DC Fast Charger,TX,29.84661222,-95.54982806
+Station_216,Los Angeles_216,Los Angeles,Level 1,CA,34.19602889,-118.4158846
+Station_177,Los Angeles_177,Los Angeles,Level 2,CA,34.03457115,-118.4156325
+Station_380,Los Angeles_380,Los Angeles,Level 1,CA,34.31440132,-118.4122233
+Station_474,San Francisco_474,San Francisco,Level 2,CA,37.7593873,-122.3788257
+Station_80,New York_80,New York,Level 1,NY,40.77133182,-73.99235376
+Station_185,San Francisco_185,San Francisco,Level 1,CA,37.76440289,-122.3844524
+Station_461,Chicago_461,Chicago,Level 1,NY,41.81668039,-87.56936859
+Station_399,Chicago_399,Chicago,DC Fast Charger,NY,41.93827831,-87.61918016
+Station_27,San Francisco_27,San Francisco,Level 1,CA,37.74391248,-122.4559069
+Station_452,Houston_452,Houston,Level 1,TX,29.84216899,-95.64427576
+Station_464,Chicago_464,Chicago,Level 2,NY,41.8668214,-87.90911667
+Station_448,San Francisco_448,San Francisco,DC Fast Charger,CA,37.76051066,-122.3976953
+Station_478,New York_478,New York,DC Fast Charger,NY,40.61949501,-74.24182783
+Station_492,Houston_492,Houston,Level 1,TX,29.56485925,-95.77945726
+Station_414,Los Angeles_414,Los Angeles,Level 1,CA,33.88181844,-118.1655637
+Station_420,San Francisco_420,San Francisco,DC Fast Charger,CA,37.78164784,-122.5009902
+Station_195,San Francisco_195,San Francisco,DC Fast Charger,CA,37.79538767,-122.4657464
+Station_214,Houston_214,Houston,Level 1,TX,30.06336914,-95.19602786
+Station_369,Chicago_369,Chicago,Level 1,NY,41.72161373,-87.72616854
+Station_342,Chicago_342,Chicago,Level 1,NY,41.84503194,-87.92097259
+Station_114,Chicago_114,Chicago,Level 2,NY,41.69618491,-87.8001229
+Station_242,Los Angeles_242,Los Angeles,DC Fast Charger,CA,34.0079337,-118.4369358
+Station_124,Houston_124,Houston,Level 2,TX,29.86375631,-95.38759541
+Station_305,Houston_305,Houston,DC Fast Charger,TX,29.69677951,-95.3095455
+Station_76,Chicago_76,Chicago,DC Fast Charger,NY,41.70662584,-87.52394139
+Station_311,Chicago_311,Chicago,DC Fast Charger,NY,41.94312094,-87.81432158
+Station_469,New York_469,New York,DC Fast Charger,NY,40.63464058,-73.78130926
+Station_196,San Francisco_196,San Francisco,Level 1,CA,37.76388078,-122.4066016
+Station_351,San Francisco_351,San Francisco,Level 2,CA,37.708068,-122.3954375
+Station_44,Houston_44,Houston,Level 2,TX,29.78738915,-95.4787062
+Station_415,Houston_415,Houston,DC Fast Charger,TX,29.67987434,-95.14740093
+Station_186,Los Angeles_186,Los Angeles,Level 2,CA,34.10178142,-118.2456668
+Station_343,Los Angeles_343,Los Angeles,Level 2,CA,33.93943258,-118.3263587
+Station_437,San Francisco_437,San Francisco,DC Fast Charger,CA,37.79561058,-122.4039481
+Station_84,New York_84,New York,Level 1,NY,40.78585877,-74.25427818
+Station_207,New York_207,New York,Level 2,NY,40.69407379,-73.69942829
+Station_151,San Francisco_151,San Francisco,DC Fast Charger,CA,37.72718517,-122.4979895
+Station_156,Los Angeles_156,Los Angeles,DC Fast Charger,CA,34.20888759,-118.2741574
+Station_165,Chicago_165,Chicago,DC Fast Charger,NY,41.8768301,-87.63701195
+Station_463,Chicago_463,Chicago,DC Fast Charger,NY,41.87924454,-87.86838493
+Station_145,Houston_145,Houston,Level 1,TX,29.6528335,-95.23297177
+Station_498,Los Angeles_498,Los Angeles,Level 1,CA,34.10886641,-118.3539347
+Station_37,Los Angeles_37,Los Angeles,Level 2,CA,34.24675863,-118.5946344
+Station_333,Houston_333,Houston,DC Fast Charger,TX,29.90843614,-95.77474359
+Station_403,New York_403,New York,DC Fast Charger,NY,40.89772822,-74.20516164
+Station_45,Chicago_45,Chicago,Level 2,NY,41.68495614,-87.67647266
+Station_206,San Francisco_206,San Francisco,DC Fast Charger,CA,37.70227248,-122.4698092
+Station_62,San Francisco_62,San Francisco,Level 2,CA,37.71817175,-122.40952
+Station_420,Los Angeles_420,Los Angeles,Level 2,CA,33.96674532,-118.2747641
+Station_356,Houston_356,Houston,DC Fast Charger,TX,30.05231257,-95.10174583
+Station_468,Los Angeles_468,Los Angeles,DC Fast Charger,CA,34.17829423,-118.6382365
+Station_308,San Francisco_308,San Francisco,DC Fast Charger,CA,37.7165699,-122.4868253
+Station_19,New York_19,New York,Level 1,NY,40.6297713,-73.87928619
+Station_365,Los Angeles_365,Los Angeles,DC Fast Charger,CA,34.04156015,-118.5099862
+Station_300,Chicago_300,Chicago,Level 2,NY,41.71100479,-87.55690785
+Station_7,Chicago_7,Chicago,Level 1,NY,41.78035408,-87.79119946
+Station_249,New York_249,New York,Level 2,NY,40.82195561,-73.84465451
+Station_117,Chicago_117,Chicago,DC Fast Charger,NY,41.90375673,-87.64880841
+Station_68,Chicago_68,Chicago,Level 2,NY,41.8901314,-87.85924905
+Station_194,Los Angeles_194,Los Angeles,Level 2,CA,33.86023744,-118.3853758
+Station_325,San Francisco_325,San Francisco,DC Fast Charger,CA,37.72698404,-122.3643343
+Station_266,San Francisco_266,San Francisco,Level 2,CA,37.73571375,-122.4737593
+Station_480,Chicago_480,Chicago,Level 1,NY,41.64835581,-87.87599941
+Station_42,Houston_42,Houston,DC Fast Charger,TX,29.62436668,-95.23600939
+Station_297,Los Angeles_297,Los Angeles,Level 1,CA,34.30690524,-118.2643433
+Station_231,San Francisco_231,San Francisco,Level 2,CA,37.7328149,-122.5005001
+Station_453,Los Angeles_453,Los Angeles,Level 1,CA,34.13980446,-118.476356
+Station_378,Los Angeles_378,Los Angeles,DC Fast Charger,CA,34.33710435,-118.2526275
+Station_394,Chicago_394,Chicago,Level 2,NY,42.03138963,-87.60206135
+Station_10,Los Angeles_10,Los Angeles,Level 1,CA,34.16419184,-118.4933546
+Station_358,Houston_358,Houston,DC Fast Charger,TX,29.76542567,-95.59484482
+Station_475,Houston_475,Houston,DC Fast Charger,TX,29.78744756,-95.63834559
+Station_444,Chicago_444,Chicago,Level 1,NY,41.86081695,-87.54812995
+Station_128,San Francisco_128,San Francisco,Level 1,CA,37.78354056,-122.4980363
+Station_179,Chicago_179,Chicago,Level 2,NY,41.89242758,-87.69353119
+Station_405,Houston_405,Houston,DC Fast Charger,TX,29.92106765,-95.11776581
+Station_193,New York_193,New York,DC Fast Charger,NY,40.71834784,-73.8936127
+Station_92,Los Angeles_92,Los Angeles,Level 1,CA,34.16628274,-118.6187221
+Station_369,Los Angeles_369,Los Angeles,Level 1,CA,34.20099794,-118.6673575
+Station_231,New York_231,New York,Level 1,NY,40.7266516,-73.72183119
+Station_78,Houston_78,Houston,Level 2,TX,30.0367825,-95.49068419
+Station_85,Los Angeles_85,Los Angeles,DC Fast Charger,CA,34.05061504,-118.1745403
+Station_30,Chicago_30,Chicago,DC Fast Charger,NY,41.66955095,-87.57805897
+Station_213,Chicago_213,Chicago,Level 1,NY,41.80683206,-87.54728652
+Station_49,Houston_49,Houston,Level 2,TX,30.02703977,-95.41804118
+Station_265,Los Angeles_265,Los Angeles,Level 2,CA,33.82964638,-118.1784038
+Station_145,Chicago_145,Chicago,Level 2,NY,41.66692972,-87.82449328
+Station_69,Los Angeles_69,Los Angeles,Level 2,CA,34.33753179,-118.4173824
+Station_58,Los Angeles_58,Los Angeles,Level 2,CA,33.90875901,-118.3405921
+Station_185,Chicago_185,Chicago,Level 1,NY,42.01225415,-87.9024265
+Station_62,New York_62,New York,Level 1,NY,40.73687734,-73.95426016
+Station_479,Chicago_479,Chicago,Level 1,NY,41.93647825,-87.54659886
+Station_308,Houston_308,Houston,DC Fast Charger,TX,30.04793784,-95.65994818
+Station_445,San Francisco_445,San Francisco,Level 2,CA,37.81035618,-122.3604525
+Station_296,Chicago_296,Chicago,Level 2,NY,41.80276778,-87.73193876
+Station_166,Los Angeles_166,Los Angeles,DC Fast Charger,CA,34.32847792,-118.5276463
+Station_171,Los Angeles_171,Los Angeles,Level 2,CA,34.30879568,-118.179313
+Station_63,Chicago_63,Chicago,Level 2,NY,42.01967628,-87.57176787
+Station_147,San Francisco_147,San Francisco,Level 2,CA,37.70111206,-122.4291261
+Station_484,Chicago_484,Chicago,Level 2,NY,41.68399328,-87.52714257
+Station_306,San Francisco_306,San Francisco,Level 2,CA,37.71736256,-122.4992013
+Station_161,San Francisco_161,San Francisco,Level 1,CA,37.80421534,-122.4414594
+Station_141,Houston_141,Houston,Level 2,TX,29.67073699,-95.00872042
+Station_334,Los Angeles_334,Los Angeles,Level 1,CA,34.05314531,-118.4181047
+Station_446,San Francisco_446,San Francisco,Level 1,CA,37.75616249,-122.4891502
+Station_43,New York_43,New York,DC Fast Charger,NY,40.53843811,-74.17412839
+Station_433,San Francisco_433,San Francisco,Level 1,CA,37.75506974,-122.4788376
+Station_292,Los Angeles_292,Los Angeles,DC Fast Charger,CA,33.90036793,-118.2115194
+Station_378,New York_378,New York,DC Fast Charger,NY,40.5700656,-73.83539544
+Station_95,New York_95,New York,Level 2,NY,40.8300301,-73.93500908
+Station_262,Chicago_262,Chicago,Level 1,NY,41.64570665,-87.71463963
+Station_313,Chicago_313,Chicago,Level 1,NY,41.95048593,-87.86629214
+Station_385,New York_385,New York,DC Fast Charger,NY,40.84560562,-73.96598441
+Station_71,San Francisco_71,San Francisco,DC Fast Charger,CA,37.70685983,-122.4265316
+Station_442,San Francisco_442,San Francisco,Level 2,CA,37.78894771,-122.4317311
+Station_21,Chicago_21,Chicago,DC Fast Charger,NY,41.67556249,-87.65891254
+Station_127,San Francisco_127,San Francisco,DC Fast Charger,CA,37.74520152,-122.3933341
+Station_80,Chicago_80,Chicago,DC Fast Charger,NY,41.71576029,-87.88094301
+Station_312,Houston_312,Houston,DC Fast Charger,TX,29.694161,-95.60156233
+Station_238,San Francisco_238,San Francisco,Level 2,CA,37.73129423,-122.4823166
+Station_471,New York_471,New York,Level 1,NY,40.81411536,-73.70711945
+Station_372,Los Angeles_372,Los Angeles,Level 2,CA,33.8962648,-118.3013299
+Station_404,San Francisco_404,San Francisco,Level 1,CA,37.70137229,-122.4154107
+Station_486,San Francisco_486,San Francisco,Level 1,CA,37.78313223,-122.5100601
+Station_25,New York_25,New York,Level 2,NY,40.66432914,-73.97351292
+Station_156,Los Angeles_156,Los Angeles,Level 2,CA,34.20888759,-118.2741574
+Station_5,San Francisco_5,San Francisco,DC Fast Charger,CA,37.8074142,-122.4074309
+Station_120,Los Angeles_120,Los Angeles,Level 2,CA,34.29548475,-118.5195308
+Station_277,Chicago_277,Chicago,Level 1,NY,41.89199643,-87.84796599
+Station_18,San Francisco_18,San Francisco,Level 1,CA,37.74491612,-122.4955778
+Station_431,San Francisco_431,San Francisco,Level 1,CA,37.71602825,-122.4954903
+Station_198,Chicago_198,Chicago,DC Fast Charger,NY,41.98897808,-87.82027353
+Station_57,Houston_57,Houston,Level 2,TX,29.53413403,-95.13464269
+Station_93,San Francisco_93,San Francisco,Level 1,CA,37.78972818,-122.4230818
+Station_384,New York_384,New York,Level 1,NY,40.66881361,-73.94595164
+Station_353,Los Angeles_353,Los Angeles,Level 1,CA,34.34241547,-118.3873825
+Station_193,Houston_193,Houston,Level 2,TX,29.78249685,-95.36998585
+Station_237,New York_237,New York,DC Fast Charger,NY,40.77556061,-74.14113714
+Station_387,Los Angeles_387,Los Angeles,Level 1,CA,34.04186821,-118.4369667
+Station_426,Los Angeles_426,Los Angeles,Level 1,CA,33.86085253,-118.2850828
+Station_277,Chicago_277,Chicago,DC Fast Charger,NY,41.89199643,-87.84796599
+Station_227,Houston_227,Houston,DC Fast Charger,TX,30.02388104,-95.73450375
+Station_233,Chicago_233,Chicago,Level 2,NY,41.82316667,-87.64441823
+Station_40,New York_40,New York,Level 1,NY,40.70735943,-73.93210601
+Station_323,Chicago_323,Chicago,Level 2,NY,41.70143948,-87.80219059
+Station_153,Houston_153,Houston,Level 1,TX,29.81220492,-95.70700798
+Station_237,San Francisco_237,San Francisco,Level 1,CA,37.72464818,-122.4266964
+Station_486,New York_486,New York,DC Fast Charger,NY,40.8377376,-74.00247494
+Station_493,San Francisco_493,San Francisco,Level 2,CA,37.76158974,-122.4469122
+Station_468,New York_468,New York,Level 1,NY,40.8369736,-73.84326475
+Station_172,New York_172,New York,Level 2,NY,40.66025795,-73.7882926
+Station_109,New York_109,New York,Level 2,NY,40.81069593,-73.92879635
+Station_354,Los Angeles_354,Los Angeles,DC Fast Charger,CA,33.89182179,-118.2887848
+Station_184,New York_184,New York,Level 2,NY,40.8918706,-74.2292787
+Station_439,San Francisco_439,San Francisco,Level 1,CA,37.74906403,-122.3969645
+Station_368,Los Angeles_368,Los Angeles,Level 2,CA,34.19778799,-118.17105
+Station_471,Houston_471,Houston,Level 1,TX,29.88752849,-95.46371045
+Station_198,Chicago_198,Chicago,Level 1,NY,41.98897808,-87.82027353
+Station_371,Los Angeles_371,Los Angeles,DC Fast Charger,CA,34.34535679,-118.4749354
+Station_373,New York_373,New York,Level 1,NY,40.65152758,-73.86718909
+Station_461,San Francisco_461,San Francisco,Level 2,CA,37.7794151,-122.433712
+Station_497,Chicago_497,Chicago,DC Fast Charger,NY,41.90794898,-87.79393665
+Station_87,Los Angeles_87,Los Angeles,Level 2,CA,34.04374765,-118.2987923
+Station_201,San Francisco_201,San Francisco,DC Fast Charger,CA,37.70272824,-122.4722619
+Station_337,San Francisco_337,San Francisco,DC Fast Charger,CA,37.78081998,-122.4328887
+Station_322,San Francisco_322,San Francisco,Level 1,CA,37.76383203,-122.3882623
+Station_275,New York_275,New York,Level 1,NY,40.59643018,-74.06576576
+Station_118,Chicago_118,Chicago,Level 1,NY,41.75301639,-87.54628765
+Station_191,Los Angeles_191,Los Angeles,Level 2,CA,34.17126556,-118.6124492
+Station_315,New York_315,New York,DC Fast Charger,NY,40.83807562,-74.02264805
+Station_276,Chicago_276,Chicago,Level 1,NY,41.95408192,-87.56882222
+Station_329,Houston_329,Houston,Level 2,TX,29.50938748,-95.6351347
+Station_283,New York_283,New York,Level 1,NY,40.53338559,-74.25019
+Station_431,Chicago_431,Chicago,DC Fast Charger,NY,41.88509181,-87.64461977
+Station_258,New York_258,New York,Level 2,NY,40.6629741,-74.13173983
+Station_63,Houston_63,Houston,DC Fast Charger,TX,29.53216544,-95.68064193
+Station_62,Houston_62,Houston,Level 2,TX,29.56422159,-95.35742109
+Station_100,Houston_100,Houston,Level 1,TX,29.63036153,-95.10901581
+Station_17,Houston_17,Houston,DC Fast Charger,TX,29.53386642,-95.39688332
+Station_325,Houston_325,Houston,DC Fast Charger,TX,29.67355807,-95.14737099
+Station_423,Los Angeles_423,Los Angeles,Level 2,CA,34.17548636,-118.5073591
+Station_466,San Francisco_466,San Francisco,Level 1,CA,37.77175012,-122.4123949
+Station_246,Houston_246,Houston,Level 2,TX,29.69239907,-95.55858845
+Station_251,New York_251,New York,DC Fast Charger,NY,40.68302926,-73.72474899
+Station_455,Chicago_455,Chicago,Level 2,NY,41.69873678,-87.66271078
+Station_81,New York_81,New York,Level 2,NY,40.80141319,-73.69183408
+Station_39,Los Angeles_39,Los Angeles,Level 1,CA,34.27181403,-118.2050954
+Station_424,New York_424,New York,DC Fast Charger,NY,40.80327438,-74.08493038
+Station_429,New York_429,New York,Level 2,NY,40.91189437,-73.95363272
+Station_388,San Francisco_388,San Francisco,Level 2,CA,37.77511918,-122.4516479
+Station_486,San Francisco_486,San Francisco,Level 2,CA,37.78313223,-122.5100601
+Station_409,Chicago_409,Chicago,DC Fast Charger,NY,41.84320452,-87.5316381
+Station_197,Los Angeles_197,Los Angeles,Level 2,CA,34.31203117,-118.3276153
+Station_158,New York_158,New York,Level 1,NY,40.52444793,-74.16036327
+Station_204,New York_204,New York,Level 2,NY,40.56751306,-74.14362633
+Station_196,New York_196,New York,Level 2,NY,40.82789598,-74.08194667
+Station_216,New York_216,New York,Level 1,NY,40.66901959,-74.18196161
+Station_285,San Francisco_285,San Francisco,Level 1,CA,37.74517522,-122.3992934
+Station_457,Chicago_457,Chicago,Level 1,NY,41.83414272,-87.58327681
+Station_196,Houston_196,Houston,Level 1,TX,29.68044185,-95.23393856
+Station_307,Los Angeles_307,Los Angeles,Level 1,CA,34.23457125,-118.1904511
+Station_152,New York_152,New York,Level 1,NY,40.73182596,-73.69900615
+Station_14,Chicago_14,Chicago,DC Fast Charger,NY,41.86848757,-87.88368104
+Station_325,Houston_325,Houston,Level 2,TX,29.67355807,-95.14737099
+Station_146,Chicago_146,Chicago,DC Fast Charger,NY,41.73957199,-87.85459857
+Station_426,San Francisco_426,San Francisco,DC Fast Charger,CA,37.78695017,-122.4895229
+Station_57,Houston_57,Houston,Level 1,TX,29.53413403,-95.13464269
+Station_211,Chicago_211,Chicago,Level 2,NY,41.75006925,-87.65705779
+Station_268,San Francisco_268,San Francisco,DC Fast Charger,CA,37.77235065,-122.3802207
+Station_210,Chicago_210,Chicago,Level 2,NY,41.71714695,-87.6200875
+Station_17,Chicago_17,Chicago,Level 2,NY,42.01758093,-87.52108111
+Station_286,Houston_286,Houston,Level 1,TX,29.93458314,-95.35291962
+Station_344,San Francisco_344,San Francisco,Level 2,CA,37.81550412,-122.4775254
+Station_203,New York_203,New York,DC Fast Charger,NY,40.77930214,-74.13746201
+Station_99,Los Angeles_99,Los Angeles,DC Fast Charger,CA,34.01160623,-118.2265683
+Station_279,Houston_279,Houston,Level 1,TX,29.69977859,-95.03438419
+Station_209,San Francisco_209,San Francisco,DC Fast Charger,CA,37.70184004,-122.3700544
+Station_129,Chicago_129,Chicago,Level 1,NY,42.0344518,-87.8907272
+Station_288,Los Angeles_288,Los Angeles,DC Fast Charger,CA,34.3497218,-118.4257504
+Station_252,Los Angeles_252,Los Angeles,Level 1,CA,33.85768557,-118.3617552
+Station_265,New York_265,New York,Level 2,NY,40.7273941,-73.81244681
+Station_412,Los Angeles_412,Los Angeles,Level 2,CA,33.94743013,-118.3978384
+Station_408,Houston_408,Houston,Level 2,TX,29.71555573,-95.5907507
+Station_188,Houston_188,Houston,Level 1,TX,29.56068446,-95.18330022
+Station_419,Chicago_419,Chicago,Level 1,NY,41.98965878,-87.75014207
+Station_214,New York_214,New York,Level 1,NY,40.71051111,-73.9766064
+Station_283,Chicago_283,Chicago,Level 2,NY,41.68042937,-87.52784625
+Station_211,New York_211,New York,Level 2,NY,40.69188088,-73.7745586
+Station_365,Los Angeles_365,Los Angeles,Level 2,CA,34.04156015,-118.5099862
+Station_76,Houston_76,Houston,Level 2,TX,29.97353616,-95.28215571
+Station_148,Houston_148,Houston,Level 1,TX,30.0485983,-95.50343606
+Station_321,Los Angeles_321,Los Angeles,Level 1,CA,33.96905461,-118.3831124
+Station_213,Chicago_213,Chicago,Level 2,NY,41.80683206,-87.54728652
+Station_433,Chicago_433,Chicago,DC Fast Charger,NY,41.73072238,-87.87871246
+Station_109,San Francisco_109,San Francisco,Level 1,CA,37.7915013,-122.4336994
+Station_129,New York_129,New York,DC Fast Charger,NY,40.60213287,-73.71849263
+Station_10,Chicago_10,Chicago,DC Fast Charger,NY,41.73343829,-87.81845706
+Station_47,Los Angeles_47,Los Angeles,DC Fast Charger,CA,34.0764429,-118.4570352
+Station_379,Chicago_379,Chicago,Level 2,NY,41.70248868,-87.80145658
+Station_315,Houston_315,Houston,Level 1,TX,29.72790386,-95.13330983
+Station_96,New York_96,New York,DC Fast Charger,NY,40.70469964,-73.8837813
+Station_446,San Francisco_446,San Francisco,Level 2,CA,37.75616249,-122.4891502
+Station_103,New York_103,New York,Level 1,NY,40.78448404,-74.11817721
+Station_380,Houston_380,Houston,Level 2,TX,29.99295516,-95.02679339
+Station_342,Houston_342,Houston,Level 1,TX,29.88501667,-95.40752353
+Station_146,Houston_146,Houston,Level 1,TX,29.79472012,-95.70189006
+Station_368,Houston_368,Houston,Level 2,TX,29.97761486,-95.66424688
+Station_430,Los Angeles_430,Los Angeles,DC Fast Charger,CA,33.80935187,-118.2645625
+Station_416,San Francisco_416,San Francisco,Level 1,CA,37.72031189,-122.4047498
+Station_27,Houston_27,Houston,Level 1,TX,29.79298979,-95.06648049
+Station_220,Houston_220,Houston,DC Fast Charger,TX,29.73427224,-95.42389194
+Station_167,San Francisco_167,San Francisco,DC Fast Charger,CA,37.76505642,-122.4173105
+Station_477,San Francisco_477,San Francisco,DC Fast Charger,CA,37.78018587,-122.3977058
+Station_310,Houston_310,Houston,DC Fast Charger,TX,29.74743533,-95.12596423
+Station_479,Los Angeles_479,Los Angeles,Level 1,CA,33.8504317,-118.3093435
+Station_254,New York_254,New York,Level 2,NY,40.6504763,-73.90547721
+Station_162,Chicago_162,Chicago,Level 2,NY,41.91336944,-87.68106187
+Station_327,San Francisco_327,San Francisco,Level 2,CA,37.7579845,-122.4419433
+Station_420,New York_420,New York,Level 1,NY,40.60813852,-73.69328718
+Station_402,New York_402,New York,DC Fast Charger,NY,40.7339152,-73.91299405
+Station_38,Los Angeles_38,Los Angeles,DC Fast Charger,CA,34.13812142,-118.2588545
+Station_443,Chicago_443,Chicago,Level 1,NY,42.01300708,-87.8950531
+Station_393,San Francisco_393,San Francisco,Level 2,CA,37.78947983,-122.4438006
+Station_201,Chicago_201,Chicago,DC Fast Charger,NY,41.6794887,-87.87746306
+Station_494,Los Angeles_494,Los Angeles,Level 1,CA,34.22988935,-118.5336644
+Station_200,Houston_200,Houston,DC Fast Charger,TX,29.73813785,-95.50155873
+Station_255,New York_255,New York,Level 2,NY,40.66459179,-73.93664871
+Station_179,San Francisco_179,San Francisco,Level 2,CA,37.81882796,-122.4838628
+Station_35,Houston_35,Houston,DC Fast Charger,TX,29.63736507,-95.07566399
+Station_82,Los Angeles_82,Los Angeles,Level 1,CA,34.14462706,-118.2375878
+Station_389,Chicago_389,Chicago,Level 1,NY,41.90803165,-87.57954795
+Station_398,New York_398,New York,DC Fast Charger,NY,40.81662192,-74.2148347
+Station_220,San Francisco_220,San Francisco,Level 2,CA,37.74551168,-122.4315678
+Station_158,Houston_158,Houston,Level 1,TX,29.53366896,-95.79243986
+Station_167,New York_167,New York,DC Fast Charger,NY,40.67658115,-73.80721798
+Station_468,Chicago_468,Chicago,Level 2,NY,41.87200122,-87.57965667
+Station_448,Los Angeles_448,Los Angeles,Level 2,CA,33.76198519,-118.4006388
+Station_409,Chicago_409,Chicago,Level 1,NY,41.84320452,-87.5316381
+Station_412,Chicago_412,Chicago,Level 1,NY,41.65744622,-87.85120484
+Station_204,Chicago_204,Chicago,Level 1,NY,41.99592793,-87.56722719
+Station_194,New York_194,New York,Level 2,NY,40.69446512,-74.24252844
+Station_235,New York_235,New York,DC Fast Charger,NY,40.87670401,-73.93752918
+Station_206,Los Angeles_206,Los Angeles,Level 1,CA,34.25087134,-118.3620997
+Station_150,Chicago_150,Chicago,Level 1,NY,41.87108339,-87.59340077
+Station_159,New York_159,New York,Level 1,NY,40.62522842,-73.70273318
+Station_279,Los Angeles_279,Los Angeles,DC Fast Charger,CA,34.3474789,-118.4001517
+Station_404,Chicago_404,Chicago,Level 1,NY,41.8806848,-87.62405312
+Station_381,San Francisco_381,San Francisco,Level 2,CA,37.78552537,-122.4562726
+Station_166,Chicago_166,Chicago,Level 2,NY,41.67154437,-87.87177089
+Station_311,San Francisco_311,San Francisco,Level 2,CA,37.72885666,-122.3864559
+Station_68,Los Angeles_68,Los Angeles,DC Fast Charger,CA,33.95295179,-118.2127719
+Station_463,New York_463,New York,Level 2,NY,40.63264383,-73.82419053
+Station_88,Houston_88,Houston,Level 1,TX,29.58397036,-95.00921763
+Station_217,Los Angeles_217,Los Angeles,Level 1,CA,34.17070632,-118.4145956
+Station_1,New York_1,New York,DC Fast Charger,NY,40.90895903,-74.23831911
+Station_135,Los Angeles_135,Los Angeles,DC Fast Charger,CA,33.98410736,-118.2422759
+Station_351,San Francisco_351,San Francisco,DC Fast Charger,CA,37.708068,-122.3954375
+Station_140,Los Angeles_140,Los Angeles,Level 1,CA,34.10593916,-118.2292341
+Station_106,New York_106,New York,Level 2,NY,40.90058911,-74.0359452
+Station_133,Chicago_133,Chicago,Level 1,NY,41.95715752,-87.92755722
+Station_108,Houston_108,Houston,DC Fast Charger,TX,29.72822862,-95.79528313
+Station_178,Chicago_178,Chicago,Level 2,NY,41.75206408,-87.52311393
+Station_298,San Francisco_298,San Francisco,Level 1,CA,37.75887241,-122.4630702
+Station_358,Chicago_358,Chicago,DC Fast Charger,NY,42.02586857,-87.75862386
+Station_380,Houston_380,Houston,DC Fast Charger,TX,29.99295516,-95.02679339
+Station_396,New York_396,New York,Level 2,NY,40.78226879,-73.88020357
+Station_359,Los Angeles_359,Los Angeles,Level 1,CA,34.10836127,-118.2092641
+Station_146,San Francisco_146,San Francisco,Level 1,CA,37.71028329,-122.4210215
+Station_450,Houston_450,Houston,DC Fast Charger,TX,29.9788331,-95.22951317
+Station_74,San Francisco_74,San Francisco,Level 2,CA,37.79011574,-122.3967926
+Station_463,Chicago_463,Chicago,Level 1,NY,41.87924454,-87.86838493
+Station_478,San Francisco_478,San Francisco,Level 2,CA,37.70984456,-122.4953246
+Station_122,Los Angeles_122,Los Angeles,Level 1,CA,34.16259015,-118.3467106
+Station_17,Los Angeles_17,Los Angeles,DC Fast Charger,CA,34.18077594,-118.5084941
+Station_327,New York_327,New York,DC Fast Charger,NY,40.53581689,-74.26693482
+Station_318,San Francisco_318,San Francisco,Level 1,CA,37.73699209,-122.4624132
+Station_297,Chicago_297,Chicago,Level 2,NY,41.75060424,-87.88434706
+Station_499,Los Angeles_499,Los Angeles,Level 1,CA,34.060581,-118.4618975
+Station_252,Los Angeles_252,Los Angeles,DC Fast Charger,CA,33.85768557,-118.3617552
+Station_487,New York_487,New York,Level 1,NY,40.73594299,-74.16994608
+Station_119,New York_119,New York,Level 1,NY,40.65371477,-74.18808437
+Station_162,Houston_162,Houston,Level 1,TX,29.98565827,-95.79480099
+Station_198,San Francisco_198,San Francisco,DC Fast Charger,CA,37.73613575,-122.4411002
+Station_498,San Francisco_498,San Francisco,Level 1,CA,37.70759206,-122.4504518
+Station_486,Chicago_486,Chicago,Level 2,NY,41.81265196,-87.73662285
+Station_45,Los Angeles_45,Los Angeles,Level 2,CA,34.23986996,-118.3905853
+Station_314,New York_314,New York,DC Fast Charger,NY,40.59603373,-73.90123012
+Station_179,Chicago_179,Chicago,Level 1,NY,41.89242758,-87.69353119
+Station_382,Chicago_382,Chicago,DC Fast Charger,NY,41.88346062,-87.85786975
+Station_418,New York_418,New York,Level 1,NY,40.89799409,-74.07399184
+Station_44,San Francisco_44,San Francisco,DC Fast Charger,CA,37.77442306,-122.3913478
+Station_78,San Francisco_78,San Francisco,Level 1,CA,37.79685539,-122.4032429
+Station_326,Chicago_326,Chicago,DC Fast Charger,NY,41.7751121,-87.79941079
+Station_178,Los Angeles_178,Los Angeles,DC Fast Charger,CA,34.18654874,-118.4410467
+Station_357,Houston_357,Houston,DC Fast Charger,TX,29.98928528,-95.11239323
+Station_498,Chicago_498,Chicago,Level 1,NY,42.0394324,-87.88282772
+Station_416,San Francisco_416,San Francisco,DC Fast Charger,CA,37.72031189,-122.4047498
+Station_451,San Francisco_451,San Francisco,Level 1,CA,37.73847982,-122.3684354
+Station_3,San Francisco_3,San Francisco,Level 2,CA,37.72410218,-122.4697307
+Station_214,New York_214,New York,Level 2,NY,40.71051111,-73.9766064
+Station_74,Los Angeles_74,Los Angeles,Level 1,CA,34.32697351,-118.1759501
+Station_67,San Francisco_67,San Francisco,Level 1,CA,37.73497378,-122.4088068
+Station_332,New York_332,New York,Level 1,NY,40.70113314,-73.93023122
+Station_93,Los Angeles_93,Los Angeles,Level 2,CA,34.23072144,-118.4696031
+Station_176,Chicago_176,Chicago,DC Fast Charger,NY,41.68669401,-87.70318279
+Station_7,New York_7,New York,Level 1,NY,40.74465762,-73.94807884
+Station_376,Houston_376,Houston,Level 2,TX,29.90902758,-95.35992067
+Station_322,San Francisco_322,San Francisco,Level 2,CA,37.76383203,-122.3882623
+Station_4,San Francisco_4,San Francisco,Level 2,CA,37.78500405,-122.4498472
+Station_138,Los Angeles_138,Los Angeles,Level 1,CA,33.88936529,-118.316654
+Station_231,Houston_231,Houston,Level 1,TX,29.99137934,-95.16347453
+Station_88,San Francisco_88,San Francisco,Level 2,CA,37.74909699,-122.4401115
+Station_17,San Francisco_17,San Francisco,Level 2,CA,37.77600032,-122.4812766
+Station_52,Los Angeles_52,Los Angeles,DC Fast Charger,CA,34.12813093,-118.3052294
+Station_134,Chicago_134,Chicago,DC Fast Charger,NY,41.96352147,-87.90893464
+Station_211,San Francisco_211,San Francisco,DC Fast Charger,CA,37.74809661,-122.438942
+Station_325,New York_325,New York,DC Fast Charger,NY,40.88576864,-73.86189177
+Station_480,New York_480,New York,Level 2,NY,40.72376744,-73.80347466
+Station_458,Chicago_458,Chicago,DC Fast Charger,NY,41.78740709,-87.56388936
+Station_393,Houston_393,Houston,Level 2,TX,29.82214359,-95.28945571
+Station_219,Los Angeles_219,Los Angeles,Level 2,CA,34.27116922,-118.2458506
+Station_205,New York_205,New York,Level 1,NY,40.77276871,-74.0605448
+Station_211,New York_211,New York,DC Fast Charger,NY,40.69188088,-73.7745586
+Station_277,Chicago_277,Chicago,Level 2,NY,41.89199643,-87.84796599
+Station_24,Houston_24,Houston,Level 1,TX,29.88819991,-95.76456265
+Station_486,Houston_486,Houston,Level 1,TX,30.09016492,-95.25802248
+Station_4,Chicago_4,Chicago,Level 2,NY,41.96033791,-87.92538443
+Station_152,New York_152,New York,Level 2,NY,40.73182596,-73.69900615
+Station_483,New York_483,New York,DC Fast Charger,NY,40.66183563,-73.82591716
+Station_259,Houston_259,Houston,Level 2,TX,30.07943007,-95.45563556
+Station_324,New York_324,New York,Level 2,NY,40.84046591,-74.13060138
+Station_357,Los Angeles_357,Los Angeles,Level 1,CA,34.03193956,-118.4054131
+Station_168,San Francisco_168,San Francisco,Level 1,CA,37.7696622,-122.4279623
+Station_176,New York_176,New York,Level 1,NY,40.82210716,-73.92273193
+Station_310,Chicago_310,Chicago,Level 1,NY,41.84519097,-87.7951137
+Station_291,San Francisco_291,San Francisco,Level 1,CA,37.78005591,-122.5127332
+Station_479,Chicago_479,Chicago,DC Fast Charger,NY,41.93647825,-87.54659886
+Station_56,Chicago_56,Chicago,Level 1,NY,41.65007069,-87.89608927
+Station_108,Chicago_108,Chicago,Level 2,NY,41.81054993,-87.5360743
+Station_473,New York_473,New York,DC Fast Charger,NY,40.68579303,-74.14794828
+Station_296,Houston_296,Houston,Level 1,TX,29.7897556,-95.41906998
+Station_461,San Francisco_461,San Francisco,Level 1,CA,37.7794151,-122.433712
+Station_324,Los Angeles_324,Los Angeles,Level 1,CA,33.88828658,-118.1821084
+Station_334,New York_334,New York,Level 1,NY,40.90894682,-73.94351821
+Station_141,Chicago_141,Chicago,Level 2,NY,41.81964803,-87.64735943
+Station_155,Los Angeles_155,Los Angeles,Level 2,CA,33.87702634,-118.3615368
+Station_262,San Francisco_262,San Francisco,Level 1,CA,37.73826914,-122.4719577
+Station_420,Houston_420,Houston,DC Fast Charger,TX,29.98611156,-95.70793179
+Station_232,Los Angeles_232,Los Angeles,DC Fast Charger,CA,34.20494315,-118.3805273
+Station_241,New York_241,New York,DC Fast Charger,NY,40.8551474,-73.88769775
+Station_337,Los Angeles_337,Los Angeles,Level 1,CA,34.14014057,-118.5861794
+Station_489,Chicago_489,Chicago,DC Fast Charger,NY,42.04339919,-87.83755656
+Station_249,Houston_249,Houston,DC Fast Charger,TX,29.60467194,-95.67189143
+Station_77,Los Angeles_77,Los Angeles,DC Fast Charger,CA,34.06390182,-118.1811841
+Station_180,Houston_180,Houston,Level 1,TX,29.63911333,-95.47596205
+Station_66,Houston_66,Houston,Level 1,TX,29.61067107,-95.2876169
+Station_308,Houston_308,Houston,Level 2,TX,30.04793784,-95.65994818
+Station_348,New York_348,New York,Level 1,NY,40.67581781,-74.25277656
+Station_171,Houston_171,Houston,DC Fast Charger,TX,29.86846416,-95.64214045
+Station_474,Chicago_474,Chicago,Level 2,NY,41.88280329,-87.77668897
+Station_22,Chicago_22,Chicago,Level 2,NY,41.9289416,-87.85357052
+Station_367,San Francisco_367,San Francisco,Level 2,CA,37.74446482,-122.4301358
+Station_107,Houston_107,Houston,Level 2,TX,29.9513953,-95.15301617
+Station_439,Houston_439,Houston,Level 1,TX,29.84661222,-95.54982806
+Station_323,Los Angeles_323,Los Angeles,DC Fast Charger,CA,34.26678656,-118.5746505
+Station_227,New York_227,New York,Level 1,NY,40.63017351,-74.00004525
+Station_444,San Francisco_444,San Francisco,Level 1,CA,37.73148241,-122.3819782
+Station_442,Houston_442,Houston,Level 2,TX,29.81855316,-95.45959695
+Station_396,Los Angeles_396,Los Angeles,Level 1,CA,33.97900528,-118.3564471
+Station_69,San Francisco_69,San Francisco,DC Fast Charger,CA,37.75399694,-122.4111826
+Station_84,San Francisco_84,San Francisco,Level 2,CA,37.7590071,-122.5054012
+Station_103,Houston_103,Houston,Level 1,TX,29.81662901,-95.28871313
+Station_39,San Francisco_39,San Francisco,Level 2,CA,37.7716365,-122.4221907
+Station_13,Los Angeles_13,Los Angeles,DC Fast Charger,CA,34.08155306,-118.4925584
+Station_297,San Francisco_297,San Francisco,Level 1,CA,37.80146214,-122.421222
+Station_313,Chicago_313,Chicago,DC Fast Charger,NY,41.95048593,-87.86629214
+Station_493,New York_493,New York,Level 2,NY,40.83990745,-73.85346687
+Station_268,New York_268,New York,Level 2,NY,40.61790128,-73.90745414
+Station_13,Houston_13,Houston,Level 2,TX,29.64971784,-95.7177651
+Station_120,Houston_120,Houston,Level 1,TX,29.73111726,-95.33872957
+Station_458,Chicago_458,Chicago,Level 2,NY,41.78740709,-87.56388936
+Station_353,New York_353,New York,Level 1,NY,40.52644335,-74.19097082
+Station_57,New York_57,New York,DC Fast Charger,NY,40.68416861,-74.13518879
+Station_40,New York_40,New York,Level 2,NY,40.70735943,-73.93210601
+Station_374,New York_374,New York,DC Fast Charger,NY,40.56870914,-73.86087244
+Station_128,Los Angeles_128,Los Angeles,DC Fast Charger,CA,34.03203617,-118.4566981
