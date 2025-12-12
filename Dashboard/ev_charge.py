@@ -219,7 +219,7 @@ with st.sidebar:
     )
 
     central_frequency = st.sidebar.radio(
-        "Central Tendency",
+        "Select Map Hover Stats",
         options=["Mean", "Median", "Min", "Max"],
         index=0,  # default = Mean Average,
         horizontal=True
@@ -227,7 +227,7 @@ with st.sidebar:
 
     options = ["Frequent User Type", "Charging Duration", "Energy Consumed", "Frequent Vehicle Model"]
 
-    select_info = st.sidebar.pills("Select Information", options, selection_mode="multi")
+    select_info = st.sidebar.pills("Select Map Hover Info", options, selection_mode="multi")
     
 select_charger_types_sidebar= st.sidebar.multiselect(
     "Select Charger Types",
@@ -501,13 +501,66 @@ with tab2:
     # Basic info
     st.header("Plot The Cheapest Charge Points")
     st.markdown("""
-    The scatter plot below shows the **average cost per unit ($/kWh)** by **charger type** over the course of a typical day. The points are split into:
+    The bar chart below shows the **average cost per unit ($/kWh)** by **charger type** and **city**. The points are split into:
 
     - **DC Fast Charger (Blue)**
     - **AC Level 1 (Orange)**
     - **AC Level 2 (Green)**
     
-    DC Charging tends to be the more expensive given it is the fastest and also requires a **'converter'** to convert **grid electricity (AC) to car battery electricity (DC)**. Most cars also have an inbuilt converter meaning they can switch between charging options.
+    **DC Charging tends to be the most expensive** given it is the fastest and so required **the largest grid connection and most expensive cabling and connection equipment**
+
+    We can see there is a slight variance between city costs. This is because major deregulated U.S. electricity markets,
+                 use nodal pricing (Locational Marginal Pricing or LMP) 
+                to set different prices at thousands of grid "nodes" based on local supply, demand, and transmission congestion, reflecting real-time costs.
+    """)
+    # Color scheme (same as all other charts)
+    color_map = {
+        "Level 1": "orange",
+        "Level 2": "green",
+        "DC Fast Charger": "lightblue"
+    }
+
+    # Filter by selected charger types
+    if select_charger_types_sidebar:
+        df_city_cost = df[df["Charger Type"].isin(select_charger_types_sidebar)].copy()
+    else:
+        df_city_cost = df.copy()
+
+    # Ensure numeric
+    df_city_cost["Cost Per kWh ($)"] = pd.to_numeric(df_city_cost["Cost Per kWh ($)"], errors="coerce")
+
+    # Group by city and charger type
+    city_avg_cost = df_city_cost.groupby(
+        ["Charging Station Location", "Charger Type"], 
+        as_index=False
+    )["Cost Per kWh ($)"].mean()
+
+    city_avg_cost["Cost Per kWh ($)"] = city_avg_cost["Cost Per kWh ($)"].round(2)
+
+    # Build grouped bar chart
+    fig_city_bar = px.bar(
+        city_avg_cost,
+        x="Charging Station Location",
+        y="Cost Per kWh ($)",
+        color="Charger Type",
+        barmode="group",
+        text="Cost Per kWh ($)",
+        title="Average Cost per kWh ($) by City and Charger Type",
+        color_discrete_map=color_map
+    )
+
+    fig_city_bar.update_layout(
+        xaxis_title="City",
+        yaxis_title="Average Cost ($/kWh)",
+        height=500
+    )
+
+    st.plotly_chart(fig_city_bar, use_container_width=True)
+    
+    st.markdown("---")
+    
+    st.markdown("""
+    The scatter plot below shows the **average cost per unit ($/kWh)** by **charger type** over the course of a typical day.
     """)
     st.info("Select your city and charger type to see the most cost effective time of day to charge your wagon!")
     selected_cities = df_filtered["Charging Station Location"].unique()
