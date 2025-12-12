@@ -1,25 +1,14 @@
 # Environments START
 # #=============================================================================================
-import json
 import pandas as pd
 import streamlit as st
 import seaborn as sns
-import numpy as np
 import plotly.express as px
 import base64
 import pydeck as pdk
 from pathlib import Path
 import matplotlib.pyplot as plt
 
-# For Regression
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import LabelEncoder
-from sklearn.linear_model import LinearRegression
-
-# For Classification
-from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 #=============================================================================================
 # Environments END
 
